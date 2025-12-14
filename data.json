@@ -1,0 +1,28 @@
+[
+    {
+        "id": "item-sword",
+        "name": "궁극의 검",
+        "materials": [
+            {"name": "철광석", "required": 100},
+            {"name": "마법 결정", "required": 50},
+            {"name": "정제된 가죽", "required": 10}
+        ]
+    },
+    {
+        "id": "item-potion",
+        "name": "고급 포션",
+        "materials": [
+            {"name": "약초", "required": 20},
+            {"name": "정제수", "required": 5}
+        ]
+    },
+    {
+        "id": "item-armor",
+        "name": "영웅의 갑옷",
+        "materials": [
+            {"name": "철광석", "required": 250},
+            {"name": "마법 결정", "required": 100},
+            {"name": "고대 나무", "required": 50}
+        ]
+    }
+]
