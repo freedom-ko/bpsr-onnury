@@ -1,10 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // 1. 사용할 파일 이름 (ItemTable, RecipeTable, ConsumableItemTable)
     const itemTableUrl = 'ItemTable.json';         
     const recipeTableUrl = 'RecipeTable.json';     
     const consumableItemTableUrl = 'ConsumableItemTable.json'; 
 
-    // 모든 데이터 파일을 비동기로 불러옵니다.
     Promise.all([
         fetch(itemTableUrl).then(res => res.json()),
         fetch(recipeTableUrl).then(res => res.json()),
@@ -17,60 +15,58 @@ document.addEventListener('DOMContentLoaded', () => {
         console.log("RecipeData 키 개수:", Object.keys(recipeData).length);
         console.log("ConsumeData 키 개수:", Object.keys(consumeData).length);
         
-        // 통합 레시피 목록을 생성합니다.
         const integratedRecipes = createIntegratedRecipes(itemData, recipeData, consumeData);
         
         // 🚨 진단 코드 2: 통합 레시피 목록이 비었는지 확인
         console.log("통합 레시피 개수:", integratedRecipes.length);
-        console.log(integratedRecipes); // 레시피 내용 직접 출력
 
-        // 웹페이지에 레시피를 로드하고 이벤트 리스너를 설정합니다.
         loadRecipes(integratedRecipes);
         setupEventListeners(integratedRecipes);
     })
     .catch(error => {
         console.error('데이터 로드 중 오류 발생:', error);
-        // JSON 파일 형식 오류도 이 catch 블록으로 들어올 수 있습니다.
         alert('데이터 파일을 불러오는 데 실패했습니다. 파일 이름과 JSON 형식을 확인해 주세요.');
     });
 
-
     // --- 핵심 로직: 3개의 JSON 데이터를 하나로 통합 ---
-    // 이 함수들은 document.addEventListener 안에 정의되어야 합니다.
     function createIntegratedRecipes(itemData, recipeData, consumeData) {
         const recipes = [];
         
-        // ConsumableItemTable의 모든 항목을 반복
         for (const consumeId in consumeData) {
             const consumeEntry = consumeData[consumeId];
             
-            // 제작 결과물 ID (GetItemList 배열의 두 번째 값)
-            // GetItemList는 [[타입, ID], [타입, ID]...] 구조입니다.
             const targetItemId = consumeEntry.GetItemList[0] ? consumeEntry.GetItemList[0][1] : null;
 
             if (!targetItemId) continue;
 
-            // RecipeTable에서 제작 아이템의 이름 ('Name')을 가져옵니다.
-            const recipeName = recipeData[targetItemId] ? recipeData[targetItemId].Name : null;
+            // 1. RecipeTable에서 제작 아이템의 이름 ('Name')을 가져옵니다.
+            let recipeName = recipeData[targetItemId] ? recipeData[targetItemId].Name : null;
+
+            // 2. RecipeTable에 이름이 없으면, ItemTable에서 이름을 가져와 대체합니다. (NEW LOGIC)
+            if (!recipeName) {
+                const itemEntry = itemData[targetItemId];
+                if (itemEntry && itemEntry.Name) {
+                    recipeName = itemEntry.Name;
+                } else {
+                    recipeName = `미확인 레시피 ID: ${targetItemId}`;
+                }
+            }
             
-            if (!recipeName) continue;
+            // 이름이 할당되지 않은 레시피는 건너뛰지 않습니다.
             
             const materials = [];
             
-            // ConsumeList (소모 목록)의 [재료ID, 수량]을 처리합니다.
             consumeEntry.ConsumeList.forEach(([materialId, quantity]) => {
                 const materialItem = itemData[materialId];
                 
-                // ItemTable에서 재료의 이름 ('Name')을 가져옵니다.
                 const materialName = materialItem ? materialItem.Name : '알 수 없는 재료 ID: ' + materialId;
                 
                 materials.push({
                     name: materialName,
-                    required: parseInt(quantity) // 수량을 정수로 변환
+                    required: parseInt(quantity)
                 });
             });
 
-            // 최종 레시피 객체 생성
             recipes.push({
                 name: recipeName,
                 materials: materials
@@ -82,10 +78,10 @@ document.addEventListener('DOMContentLoaded', () => {
         return recipes;
     }
 
-    // --- UI 로직: 레시피 로드 및 드롭다운 생성 ---
+    // --- UI 로직: 레시피 로드 및 드롭다운 생성 (이하 동일) ---
     function loadRecipes(recipes) {
         const select = document.getElementById('recipe-select');
-        select.innerHTML = ''; // 기존 목록 초기화
+        select.innerHTML = '';
         
         const defaultOption = document.createElement('option');
         defaultOption.value = '';
@@ -100,7 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // --- UI 로직: 이벤트 리스너 설정 및 계산 ---
+    // --- UI 로직: 이벤트 리스너 설정 및 계산 (이하 동일) ---
     function setupEventListeners(recipes) {
         const select = document.getElementById('recipe-select');
         const quantityInput = document.getElementById('quantity');
@@ -137,4 +133,4 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
-}); // <--- 이 닫는 괄호가 파일의 맨 마지막이어야 합니다.
+});
