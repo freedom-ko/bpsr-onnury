@@ -1,5 +1,3 @@
-// script.js 파일의 내용 (전체 대체)
-
 document.addEventListener('DOMContentLoaded', () => {
     // 1. 사용할 파일 이름 (ItemTable, RecipeTable, ConsumableItemTable)
     const itemTableUrl = 'ItemTable.json';         
@@ -13,19 +11,32 @@ document.addEventListener('DOMContentLoaded', () => {
         fetch(consumableItemTableUrl).then(res => res.json())
     ])
     .then(([itemData, recipeData, consumeData]) => {
+        
+        // 🚨 진단 코드 1: 원본 데이터가 비었는지 확인
+        console.log("ItemData 키 개수:", Object.keys(itemData).length);
+        console.log("RecipeData 키 개수:", Object.keys(recipeData).length);
+        console.log("ConsumeData 키 개수:", Object.keys(consumeData).length);
+        
         // 통합 레시피 목록을 생성합니다.
         const integratedRecipes = createIntegratedRecipes(itemData, recipeData, consumeData);
         
+        // 🚨 진단 코드 2: 통합 레시피 목록이 비었는지 확인
+        console.log("통합 레시피 개수:", integratedRecipes.length);
+        console.log(integratedRecipes); // 레시피 내용 직접 출력
+
         // 웹페이지에 레시피를 로드하고 이벤트 리스너를 설정합니다.
         loadRecipes(integratedRecipes);
         setupEventListeners(integratedRecipes);
     })
     .catch(error => {
         console.error('데이터 로드 중 오류 발생:', error);
-        alert('데이터 파일을 불러오는 데 실패했습니다. 세 개의 JSON 파일이 준비되었는지 확인해 주세요.');
+        // JSON 파일 형식 오류도 이 catch 블록으로 들어올 수 있습니다.
+        alert('데이터 파일을 불러오는 데 실패했습니다. 파일 이름과 JSON 형식을 확인해 주세요.');
     });
 
+
     // --- 핵심 로직: 3개의 JSON 데이터를 하나로 통합 ---
+    // 이 함수들은 document.addEventListener 안에 정의되어야 합니다.
     function createIntegratedRecipes(itemData, recipeData, consumeData) {
         const recipes = [];
         
@@ -34,6 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const consumeEntry = consumeData[consumeId];
             
             // 제작 결과물 ID (GetItemList 배열의 두 번째 값)
+            // GetItemList는 [[타입, ID], [타입, ID]...] 구조입니다.
             const targetItemId = consumeEntry.GetItemList[0] ? consumeEntry.GetItemList[0][1] : null;
 
             if (!targetItemId) continue;
@@ -125,4 +137,4 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
-});
+}); // <--- 이 닫는 괄호가 파일의 맨 마지막이어야 합니다.
