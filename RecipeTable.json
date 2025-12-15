@@ -1,0 +1,44 @@
+{
+  "1030006": {
+    "Id": 1030006,
+    "Name": "레드 베리 세럼",
+    "RecipeText": "Concentrated with the bright and sweet flavors of pomegranate, cherry, currant, raspberry, and more.",
+    "RecipeIcon": "item_icons_cocktail01",
+    "RecipeType": 1
+  },
+  "1030007": {
+    "Id": 1030007,
+    "Name": "블루 시트러스 세럼",
+    "RecipeText": "The color of the ocean, the scent of the sea breeze.",
+    "RecipeIcon": "item_icons_cocktail04",
+    "RecipeType": 1
+  },
+  "1030008": {
+    "Id": 1030008,
+    "Name": "소다",
+    "RecipeText": "Every bubble reflects memories of the city.",
+    "RecipeIcon": "item_icons_cocktail03",
+    "RecipeType": 1
+  },
+  "1030009": {
+    "Id": 1030009,
+    "Name": "레모네이드",
+    "RecipeText": "Sour, selfless, addictive.",
+    "RecipeIcon": "item_icons_cocktail02",
+    "RecipeType": 1
+  },
+  "1030010": {
+    "Id": 1030010,
+    "Name": "차가운 음료",
+    "RecipeText": "Add ice cubes",
+    "RecipeIcon": "item_icons_cocktail06",
+    "RecipeType": 2
+  },
+  "1030011": {
+    "Id": 1030011,
+    "Name": "뜨거운 음료",
+    "RecipeText": "Be careful, it's hot",
+    "RecipeIcon": "item_icons_cocktail05",
+    "RecipeType": 2
+  }
+}

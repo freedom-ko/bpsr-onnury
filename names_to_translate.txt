@@ -1,0 +1,6375 @@
+Judgment Blade- Scythe Long Blade
+Frostjade Staff - Magic Wand
+Scourgefire Axe - Battle Axe
+Justice Lance- Lance
+Fatewood Ring - Magic Ring
+Thunder Flash - Hand Cannon
+Sandward - Blade
+(Temporary) Rorola
+Bow
+Frostjade Staff - Magic Wand
+EXP
+EXP (blessing)
+Season Pass EXP
+Season Pass EXP (Not counted toward weekly limit)
+Season 1 Points
+Luno
+Rose Orb
+Friendship Points
+Rose Orb (Bound)
+Honor Coin
+Supply Points
+Luno (Bound)
+Meow Coin
+Homestead Coins
+Reclaim Token
+Rose Orb
+Silver Star Badge
+Adept's Badge
+Event Currency Placeholder
+Event Currency Placeholder
+Event Currency Placeholder
+Event Currency Placeholder
+Energy Points
+Monster Hunt EXP
+Focus
+Emblem Power Parts
+World Boss Crusade Points
+Meowlux Points
+Talent Points
+Life Skills Mastery
+Botany EXP
+Botany Mastery
+Mineralogy EXP
+Mineralogy Mastery
+Gemology EXP
+Gemology Mastery
+Culinary EXP
+Culinary Mastery
+Alchemy EXP
+Alchemy Mastery
+Smelting EXP
+Smelting Mastery
+Gemcrafting EXP
+Gemcrafting Mastery
+Artisanry EXP
+Artisanry Mastery
+Weaving EXP
+Mar. 2025 Collection Card (currently unused, reserved for Monthly Card compensation)
+Apr. 2025 Collection Card (currently unused, reserved for Monthly Card compensation)
+May. 2025 Collection Card (currently unused, reserved for Monthly Card compensation)
+Jun. 2025 Collection Card (currently unused, reserved for Monthly Card compensation)
+Jul. 2025 Collection Card (currently unused, reserved for Monthly Card compensation)
+Aug. 2025 Collection Card (currently unused, reserved for Monthly Card compensation)
+Sep. 2025 Collection Card (currently unused, reserved for Monthly Card compensation)
+Oct. 2025 Collection Card (currently unused, reserved for Monthly Card compensation)
+Nov. 2025 Collection Card (currently unused, reserved for Monthly Card compensation)
+Recovery Potion
+Sweet Dew Berry - Level 2
+Canned Fish Lv.1
+Canned Fish Lv.2
+Grilled Fish Lv.1
+Grilled Fish Lv.2
+Jarred Meat Lv.1
+Jarred Meat Lv.2
+Blossom Dumpling Lv.1
+Blossom Dumpling Lv.2
+Honeyshroom Soup Lv.1
+Honeyshroom Soup Lv.2
+Shroom Jelly Lv.1
+Shroom Jelly Lv.2
+Yoyo Fruit Tea Lv.1
+Yoyo Fruit Tea Lv.2
+Sweet Dew Berry - Lv.1
+Sweet Dew Berry - Level 2
+Sweet Dew Berry - Sample Pack
+Lavafish Stew Lv.1
+Lavafish Stew Lv.2
+Glazefin Chop Lv.1
+Glazefin Chop Lv.2
+Astelpot Duo Lv.1
+Astelpot Duo Lv.2
+Astelshroom Pot Lv.1
+Astelshroom Pot Lv.2
+Veilfruit Stew Lv.1
+Veilfruit Stew Lv.2
+Aromafish Can Lv.1
+Aromafish Can Lv.2
+Stuffshroom Puff Lv.1
+Stuffshroom Puff Lv.2
+Buttery Chunks Lv.1
+Buttery Chunks Lv.2
+Charfruit Roast Lv.1
+Charfruit Roast Lv.2
+Plainmeat Soup Lv.1
+Plainmeat Soup Lv.2
+Simple Asterleeds Pot Lv.1
+Simple Asterleeds Pot Lv.2
+Nine-Flavor Meat Lv.1
+Nine-Flavor Meat Lv.2
+Mushroom Sauce Lv.1
+Mushroom Sauce Lv.2
+Milky Umm - Lv.1
+Milky Umm - Lv.2
+Meatfish Skewer Lv.1
+Meatfish Skewer Lv.2
+Meatfish Skewer Lv.3
+Hearty Stewmix Lv.1
+Hearty Stewmix Lv.2
+Hearty Stewmix Lv.3
+Painfly Lv.1
+Painfly Lv.2
+Painfly Lv.3
+Shroomfish Stew Lv.1
+Shroomfish Stew Lv.2
+Shroomfish Stew Lv.3
+Astelpot Feast Lv.1
+Astelpot Feast Lv.2
+Astelpot Feast Lv.3
+Fruitocean Gelato Lv.1
+Fruitocean Gelato Lv.2
+Fruitocean Gelato Lv.3
+Seabreeze Special Lv.1
+Seabreeze Special Lv.2
+Seabreeze Special Lv.3
+Buttermelt Roast Lv.1
+Buttermelt Roast Lv.2
+Buttermelt Roast Lv.3
+Glazemeat Sauce Lv.1
+Glazemeat Sauce Lv.2
+Glazemeat Sauce Lv.3
+Kanamia Morsel Lv.1
+Kanamia Morsel Lv.2
+Kanamia Morsel Lv.3
+Buttery Flyfish Lv.1
+Buttery Flyfish Lv.2
+Buttery Flyfish Lv.3
+Bearcut Patty Lv.1
+Bearcut Patty Lv.2
+Bearcut Patty Lv.3
+Spiceshroom Soup Lv.1
+Spiceshroom Soup Lv.2
+Spiceshroom Soup Lv.3
+Wanderfruit Juice Lv.1
+Wanderfruit Juice Lv.2
+Wanderfruit Juice Lv.3
+Healing Aromatic Lv.1
+Healing Aromatic Lv.2
+Healing Aromatic Lv.3
+Basic: Healing Aromatic*5
+Intermediate: Healing Aromatic*5
+Advanced: Healing Aromatic*5
+Fire Serum Lv.1
+Fire Serum Lv.2
+Fire Serum Lv.3
+Fire Drop Lv.1
+Fire Drop Lv.2
+Fire Drop Lv.3
+Ice Serum Lv.1
+Ice Serum Lv.2
+Ice Serum Lv.3
+Ice Drop Lv.1
+Ice Drop Lv.2
+Ice Drop Lv.3
+Forest Serum Lv.1
+Forest Serum Lv.2
+Forest Serum Lv.3
+Forest Drop Lv.1
+Forest Drop Lv.2
+Forest Drop Lv.3
+Earth Serum Lv.1
+Earth Serum Lv.2
+Earth Serum Lv.3
+Earth Drop Lv.1
+Earth Drop Lv.2
+Earth Drop Lv.3
+Wind Serum Lv.1
+Wind Serum Lv.2
+Wind Serum Lv.3
+Wind Drop Lv.1
+Wind Drop Lv.2
+Wind Drop Lv.3
+Lightning Serum Lv.1
+Lightning Serum Lv.2
+Lightning Serum Lv.3
+Lightning Drop Lv.1
+Lightning Drop Lv.2
+Lightning Drop Lv.3
+Light Serum Lv.1
+Light Serum Lv.2
+Light Serum Lv.3
+Light Drop Lv.1
+Light Drop Lv.2
+Light Drop Lv.3
+Dark Serum Lv.1
+Dark Serum Lv.2
+Dark Serum Lv.3
+Dark Drop Lv.1
+Dark Drop Lv.2
+Dark Drop Lv.3
+Class Book of Tiger Lv.1
+Class Book of Tiger Lv.2
+Class Book of Tiger Lv.3
+Stellar Core - Stormblade
+Stellar Core - Heavy Guardian
+Stellar Core - Frost Mage
+Stellar Core - Verdant Oracle
+Stellar Core - Marksman
+Stellar Core - Wind Knight
+Stellar Core - Shield Knight
+Arcane Seal - Attack
+Arcane Seal - Support
+Arcane Seal - Guard
+Advanced Tactics Guide
+Stormblade Advance Book
+Heavy Guardian Advance Book
+Frost Mage Advance Book
+Verdant Oracle Advance Book
+Marksman Advance Book
+Wind Knight Advance Book
+Shield Knight Advance Book
+Beat Performer Advance Book
+Astral Recall Key​
+Core Connector
+Starforge Crystal Lv.1
+Starforge Crystal Lv.2
+Starforge Crystal Lv.3
+Placeholder Item
+Buri Mech Shard
+Moss Mech Shard
+Placeholder Item
+Mystery Metal
+Radiant Stone
+Fine Forgestone
+Reforge Stone Lv.40
+Reforge Stone Lv.60
+Reforge Stone Lv.80
+Slotting Component Lv.1
+Slotting Component Lv.2
+Slotting Component Lv.3
+Enchant Stone Test A4
+Enchant Stone Test A5
+Enchant Stone Test B1
+Enchant Stone Test B2
+Enchant Stone Test B3
+Enchant Stone Test B4
+Enchant Stone Test B5
+Enchant Stone Test C1
+Enchant Stone Test C2
+Enchant Stone Test C3
+Enchant Stone Test C4
+Enchant Stone Test C5
+Enchant Stone Test D1
+Enchant Stone Test D2
+Enchant Stone Test D3
+Enchant Stone Test D4
+Enchant Stone Test D5
+Ruby
+Sapphire
+Emerald
+Diamond
+Ruby - Lv.2
+Ruby - Power 2
+Ruby - Bulwark 2
+Ruby - Agility 2
+Ruby - Abyss 2
+Ruby - Lv.3
+Ruby - Power 3
+Ruby - Bulwark 3
+Ruby - Agility 3
+Ruby - Abyss 3
+Ruby - Power 4
+Ruby - Bulwark 4
+Ruby - Agility 4
+Ruby - Abyss 4
+Ruby - Power 5
+Ruby - Bulwark 5
+Ruby - Agility 5
+Ruby - Abyss 5
+Ruby - Power 6
+Ruby - Bulwark 6
+Ruby - Agility 6
+Ruby - Abyss 6
+Ruby - Power 7
+Ruby - Bulwark 7
+Ruby - Agility 7
+Ruby - Abyss 7
+Sapphire Lv.2
+Sapphire - Power 2
+Sapphire - Bulwark 2
+Sapphire - Agility 2
+Sapphire - Abyss 2
+Sapphire Lv.3
+Sapphire - Power 3
+Sapphire - Bulwark 3
+Sapphire - Agility 3
+Sapphire - Abyss 3
+Sapphire - Power 4
+Sapphire - Bulwark 4
+Sapphire - Agility 4
+Sapphire - Abyss 4
+Sapphire - Power 5
+Sapphire - Bulwark 5
+Sapphire - Agility 5
+Sapphire - Abyss 5
+Sapphire - Power 6
+Sapphire - Bulwark 6
+Sapphire - Agility 6
+Sapphire - Abyss 6
+Sapphire - Power 7
+Sapphire - Bulwark 7
+Sapphire - Agility 7
+Sapphire - Abyss 7
+Emerald Lv.2
+Emerald - Power 2
+Emerald - Bulwark 2
+Emerald - Agility 2
+Emerald - Abyss 2
+Emerald Lv.3
+Emerald - Power 3
+Emerald - Bulwark 3
+Emerald - Agility 3
+Emerald - Abyss 3
+Emerald - Power 4
+Emerald - Bulwark 4
+Emerald - Agility 4
+Emerald - Abyss 4
+Emerald - Power 5
+Emerald - Bulwark 5
+Emerald - Agility 5
+Emerald - Abyss 5
+Emerald - Power 6
+Emerald - Bulwark 6
+Emerald - Agility 6
+Emerald - Abyss 6
+Emerald - Power 7
+Emerald - Bulwark 7
+Emerald - Agility 7
+Emerald - Abyss 7
+Diamond Lv.2
+Diamond - Power 2
+Diamond - Bulwark 2
+Diamond - Agility 2
+Diamond - Abyss 2
+Diamond Lv.3
+Diamond - Power 3
+Diamond - Bulwark 3
+Diamond - Agility 3
+Diamond - Abyss 3
+Diamond - Power 4
+Diamond - Bulwark 4
+Diamond - Agility 4
+Diamond - Abyss 4
+Diamond - Power 5
+Diamond - Bulwark 5
+Diamond - Agility 5
+Diamond - Abyss 5
+Diamond - Power 6
+Diamond - Bulwark 6
+Diamond - Agility 6
+Diamond - Abyss 6
+Diamond - Power 7
+Diamond - Bulwark 7
+Diamond - Agility 7
+Diamond - Abyss 7
+Universal Stone Test 1
+Universal Stone Test 2
+Universal Stone Test 3
+Universal Stone Test 4
+Universal Stone Test 5
+Universal Stone Test 6
+Universal Stone Test 7
+Universal Stone Test 8
+Universal Stone Test 9
+Universal Stone Test 10
+Universal Stone Test 11
+Universal Stone Test 12
+Universal Stone Test 13
+Universal Stone Test 14
+Universal Stone Test 15
+Universal Stone Test 16
+Anchor Notes
+Sea Lily
+Medal of Light
+Someone's Old Necklace
+Note from Tina
+Red Berry Serum
+Blue Citrus Serum
+Soda
+Lemonade
+Chilled Drink
+Hot Drink
+Medal Shard
+File (Sealed)
+File (Opened)
+Jayden's Letter
+Invitation from the Designer Guild
+Invitation from the Bluewave Anglers
+Invitation from the Artisan Guild
+Invitation from the Culinary Guild
+Letter from Airona
+Identity Authorization
+Letter from Twin-Winged Bug
+Surprise Card (Ee-chan)
+Surprise Card (Blank)
+Ocean Platinum Card
+Party Invitation
+Hand-Drawn Treasure Map (I)
+Hand-Drawn Treasure Map (II)
+Shadow of the Past - devote to Hills
+Roy's Diary
+Survey Record: Storm is Coming
+Setting Reading Material
+Aged Purple Bellflower
+Void Arachnocrab's Sac
+Note with a Badge
+Shift Schedule
+Sid's Hand-Drawn Map
+Cobalt Sea Lily
+Water Sample of Pale Azure Lake
+Fireworks from Airona
+Iron Fang's Tusk
+Ceremonial Staff
+Forbidden Key
+A Crate of Starsoul Flasks
+Orange-Flavored Candy
+Supply Crate from Olvera
+Supply Crate from Tina
+Olvera's Blessing
+Tina's Blessing
+Precious Sea Lily
+Seabreeze Compass
+Letter from Ted to Dorothy
+A metal pendant
+A pair of glasses
+A compass
+Shiny Key
+Chronicles of an unknown owner
+Ruby Shard
+Airona's Letter
+Narulu's Diary
+Sea Lyrics Collection
+Thoughts of the Long-Lived:<br>Some Ramblings About Life
+The Mission of Humans
+Asterleeds Travel Guide (I)
+Asterleeds Travel Guide (II)
+Asterleeds Travel Guide (III)
+Gourmet Adventures at the Port
+Street Speech Collection
+When in Doubt, Test It Out!
+Bapharian Legacy Expense Receipt No. 30.472
+Annual Quest Completion Report for Adventurers
+Airona's Legend: Deluxe Illustrated Edition
+Mind-Blowing Thoughts No. 7
+Mind-Blowing Thoughts No. 9
+Mind-Blowing Thoughts No. 22
+Mind-Blowing Thoughts No. 23
+Mind-Blowing Thoughts No. 29
+Mind-Blowing Thoughts No. 76
+1. You can gain EXP by <style="GuideBookLab1">completing Daily Activity Goals, Quests, and defeating monsters</style>. Earn enough EXP to reach higher Adventurer Levels. <br>2. Increasing your Adventurer Level not only grants attribute boosts, Gifts, and Talent Points, but also unlocks additional features. <br>Note: Max Level for This Version: <style="GuideBookLab1">Level 60</style>.<br>
+Atlas of Demi-Humans: Goblin Edition
+Trend Guide: Spring/Summer Combined
+Asterleeds Culinary Journey I
+Today's To-Do List
+A Stack of Love Letters
+Unfinished Letter
+Snowball Cookie Recipe by René and Amado
+Letter from Mom
+Letter from Sister
+Draft of a Reply to Mom
+Draft of a Reply to Anna
+Tricky Problem
+"Dragon's Temptation"
+"Dragon's Temptation"
+Lullaby Potion
+A Rusty Key
+Diary
+Engram Collector
+Engram Collector Shard
+Bone Mask
+Battlefield Log
+Ted's Letter
+Sacrificial Bone Flute
+Engram Collector - Core
+Narulu's Notes
+"White Wolf"
+"Kanamia Customs Study I"
+Time of Forming an Alliance
+"Kanamia Customs Study II"
+"Kanamia Customs Study III"
+"Kanamia Customs Study IV"
+Jabba's Letters
+White Wolf's Departure
+Oh, Chieftain
+Mind-Blowing Thoughts, No. 77
+"Kanamia Customs Study V"
+"Origin of the Mask"
+Something's Hiding in the Wheat Field!
+Election Campaign Investigation
+Mind-Blowing Thoughts, No. 79
+Minsterhorn Travel Guide (Draft 3)
+Kanamia Resistance
+Minsterhorn: Land of Sorrows
+"Survivors of the Andra"
+"Pale Azure Lake"
+Mind-Blowing Thoughts, No. 81
+Patrol Record, Page 1
+Patrol Record, Page 2
+"After the Fall"
+Mystery of Golem
+Mind-Blowing Thoughts, No. 86
+An Investigation into Hero's Herb
+Lost Letters
+Maintenance Record
+The Letter with a Heart Drawing
+Facing the Enemy
+"Conspiracy Behind the Peace Treaty"
+Waterlogged Record Book
+Wild Dragon Witness Report
+Hartson's Letter to Home
+Procurement List
+"The Dragon Hunter of Regnus"
+"Asterleeds Independence War I"
+Diary of the Nameless One
+Elders of Kanamia
+"Heart of the Ocean Liner"
+Paper Covered in Slime
+"Twilight Secrets" Diamond Appraisal Certificate
+"Sad News: I Found Ancient Treasure"
+"What to Do When You Can't Beat an Ogre?"
+"Crab Fantasia"
+The Founding of Asterleeds
+"Asterleeds Independence War II"
+"Former Top Artisan Now Fixing Boilerst"
+"The Heiress's Engagement Is Actually About Me?!"
+Poems of the Starfall Night I
+Shrimp Daily: Special Edition
+A Thank-You Letter from Olvera
+A Call to All Citizens
+"The Seagull III"
+"Tips for Chatting with Kittens I"
+"Hidden Street Investigation"
+"The Fall of the Pirates"
+"Land of the Night"
+"Energy Division: A Different Perspective"
+"Crabs: The Hideous Sea Bugs I"
+"The Crime and Redemption Beneath the Street Lamp" Performance Poster
+"Laugh! Drink! Party All Night!" Performance Poster
+"The Nobles of Byrnhald" Performance Poster
+"A Night with Kleisler" Performance Poster
+"The Puppet with Enamel Eyes" Performance Poster
+Mind-Blowing Thoughts, No. 89
+Mind-Blowing Thoughts, No. 90
+"Medical Certificate"
+Mind-Blowing Thoughts No. 93
+Mind-Blowing Thoughts No. 94
+"Shocking! Eerie Sounds from Below!"
+"Burnt IOU Note"
+"Radiant Stone Enthusiast Guide - Standard Weapons Edition"
+"Universal Combat Potion (Type III)"
+"Get-Rich-Quick in Asterleeds"
+"Candy Wrapper Chronicles"
+Water-Resistant Map Lost by Someone
+"Lerom's Ultimate Dignity Package - Death Over Dishonor"
+"Taste Revolution: Sewer Cuisine Unveiled"
+"Rusty Nails in the Bone"
+Sewage-Stained Letter
+"Duel in the Steel Cage"
+Webber Energy Network Operation Log
+"The Unlucky Pirate"
+"Tales of the Probes"
+"The Iron Mask Incident I"
+"Crabs: The Hideous Sea Bugs II"
+Mind-Blowing Thoughts No. 95
+"Hypotheses on the Formation of Submarine Voids I"
+"Hypotheses on the Formation of Submarine Voids II"
+"Mystery of the Missing Byrnhald Envoy"
+"The Iron Mask Incident II"
+Mind-Blowing Thoughts No. 115
+"Shoemaker's Heir Returns After 30 Years Missing"
+"How to Chat with a Cat II"
+"Asterleeds, Land of Freedom"
+"How to Chat with a Cat III"
+Jenny's Mysterious Strength
+"The Iron Mask Incident III"
+Ladies
+Gentlemen
+Awaken! Mighty Fitter!
+Hidden Homework
+"Stay or Go: The Byrnhalds"
+"Crabs: The Hideous Sea Bugs III"
+"Shield Generator Blueprint"
+"Legacy Artisan"
+"Open Day for Artisan"
+"Architectural Artisan"
+"Engine Artisan"
+"Forging Artisan"
+"Artisan Levels"
+Experimental Model Application
+"Where Did the Bapharian Legacy Come From?"
+"The Hidden Value of Dragonlight Core"
+"The Hermit"
+"Let's Talk About Fantasy"
+"7th Artisan Expo: Introduction"
+"Technology Advances with Every Discovery"
+"Don't Touch That! It Might Go Crazy!"
+"Energy Division"
+"Asterleeds Independence War III"
+"Ocean Hill Immersive Theater: 127s of Legend" Part I
+"The Miser" Performance Poster
+"Spring-Leg Jack" Performance Poster
+"Webber Energy Network Hazard: The Sewer Crisis"
+"The Iron Mask Incident IV"
+"Specialty Drinks of the Continent of Regnus"
+A One-Day Tour of Asterleeds
+"Ocean Hill Museum: New Exhibit Season"
+"Your Personalized Stress Management Plan"
+"Asterleeds Independence War IV"
+Proposal: Add Artist & Sewer-dweller Representative Seats
+"The Merchant Guild's Hidden Dealings"
+"Ocean Hill Immersive Theater: 127s of Legend" Part II
+Wanted: Dr. Flame-Eye
+Wanted: Lady Penelope
+Wanted: Iron-Lung Jayden
+"A Civilization Built on Ruins"
+Plains Hunting Regulations and Poaching Warning
+"To the Honorable Jon Dandelion"
+"The Webber Family"
+Tina's Archives - I
+Tina's Archives - II
+Opening Ceremony Program List
+Exclusive Menu for Seabreeze Festival
+Poems of the Starfall Night I
+Shrimp Daily: Special Edition
+Dark Mist Legion Investigation Record
+Cruise Activity Schedule
+Rules of the Surprise Card Game
+Fragment of Garrison Log
+"The Shifting Sands of Kanamia"
+Person missing! The Mushroom Elder Trali appears!
+"The Way Elders Think"
+"Tribal Oral Traditions: Elder Pine Mushroom's Teachings"
+"The Secret of the Longevity Tree"
+Mounted Grand Hunt!
+Kanamia Caprahorn Race
+"Celebration of the Fiery Moon Omens - Volume I"
+"Celebration of the Fiery Moon Omens - Volume II"
+"A Tribe Without Currency"
+"Ritual of the Four Seasons"
+"The Tale of Kanamia's Shrimpshrooms"
+"Symbol of the Full Moon"
+"When the Lunar Harp Meets the Pigskin Drum"
+Please Send Me Back!
+A Letter to Luca
+"Song of the Outsider - Kanamia Journal"
+"Hakrei's Five Thousand Hides"
+"Book of Counsel: New Moon Scroll"
+"Book of Counsel: Sacred Spirit Scroll"
+"Book of Sin: The Transgressors I"
+"Book of Sin: The Transgressors II"
+"Book of Sin: The Transgressors III"
+"Book of Sin: The Transgressors IV"
+"The White Wolf Mystery: An Inquiry into the Existence of Kanamia Ancestral Spirits"
+"A Study of Totem Culture in Kanamia"
+"The Seven Sacred Laws of Kanamia - Part I"
+"The Seven Sacred Laws of Kanamia - Part II"
+"The Seven Sacred Laws of Kanamia - Part III"
+"The Seven Sacred Laws of Kanamia - Part IV"
+"The Seven Sacred Laws of Kanamia - Part V"
+"The Seven Sacred Laws of Kanamia - Part VI"
+"The Seven Sacred Laws of Kanamia - Part VII"
+Artisan Guild Frontier Market
+Waters of the Forbidden Land
+"The Kanamia White Wolf: A Hypothesis"
+A Letter to Old Friend Lumia
+Aged Hide Scroll
+Lost Hide Scroll
+Strange Bark Inscription
+"The Light of the Priest's Journey"
+"The Scavengers"
+A Letter to the Chief Priest
+"The Scavengers' Guide to 'Pointless' Survival"
+The Flyer for the Spinning Rudder
+"On the Benefits of Trading with Scavengers"
+To all visitors to the ruins of Andra Landing Battle
+"Peacegrass of a Foreign Land"
+Boost Pack
+Stellar Core - Select
+Arcane Seal - Select
+Advanced Materials - Mystery Box
+Basic Materials - Select
+Basic Small Chest
+Exquisite Small Chest
+Luno Coin Lucky Box
+Epic Gear
+Legendary Gear - Random
+Rare Gear
+Epic Gear - Random
+Fashion Item (Top)
+Fashion Item (Top)
+Fashion Item
+Fashion Item
+Dye Box
+Novice Feltcap
+Novice Tunic
+Novice Gauntlets
+Novice Boots
+Novice Earrings
+Novice Necklace
+Novice Ring
+Rose Crimson Earrings
+Rose Crimson Necklace
+Rose Crimson Ring
+Select Fashion Item
+Select Fashion Item
+Stellar Core - Select
+Advance Book - Select
+Enhanced Module - Basic
+Enhanced Module - Advanced
+Enhanced Module - Excellent
+Rare Gear - Select
+Epic Gear - Select
+Lv.40 Gear - Mystery Box
+Lv.60 Gear - Mystery Box
+Lv.80 Gear - Mystery Box
+Exquisite Materials
+Advanced Materials
+Intermediate Materials
+Basic Materials
+Raw Materials
+Culinary Materials - Select
+Battle Imagine - Random
+Stunt Will
+Arcane Will
+Exquisite Materials - Select
+Advanced Materials - Select
+Intermediate Materials - Select
+Basic Materials - Select
+Raw Materials - Select
+Mistborne Chest
+Throne (Pure Gold) Chest
+Luno Pouch (S) (Bound)
+Luno Pouch (M) (Bound)
+Luno Pouch (L) (Bound)
+Basic Module - Select
+Epic Weapon - Select
+Epic Armor - Select
+Epic Accessory - Select
+Commission Reward - Random
+Extra Rewards - Random
+Lv.5 Gift Box
+Lv.10 Gift Box
+Lv.15 Gift Box
+Lv.20 Gift Box
+Lv.25 Gift Box
+Lv.30 Gift Box
+Lv.35 Gift Box
+Lv.40 Gift Box
+Lv.45 Gift Box
+Lv.50 Gift Box
+Lv.55 Gift Box
+Lv.60 Gift Box
+Basic Star Chest
+Miracle Star Chest
+Miracle Star Chest (Bound)
+Unstable Space - Team Rewards
+Destiny Lucky Chest - Hard
+Destiny Supply Chest - Hard
+Destiny Lucky Chest - Hell
+Destiny Supply Chest - Hell
+[Discarded] Advance Book - Select
+Basic Module - Select
+Advanced Module - Select
+Excellent Module - Select
+Rose Orb Pouch (Bound)
+Crusade Loot
+Guild Hunt Loot
+Outfit Pack - Select
+Detective Pack
+Cool Pack
+Outfit Pack - Select
+Select Fashion Item
+Outfit Pack - Select
+Detective Pack
+Cool Pack
+Outfit Pack - Select
+Stunt Battle Imagine - Select
+Select Fashion Item
+Select Fashion Item
+Arcane Battle Imagine - Select
+Select Fashion Item
+Select Fashion Item
+Gold Nappo Attractor
+Silver Nappo Attractor
+Select Fashion Item
+Select Fashion Item
+Select Fashion Item
+Select Fashion Item
+Refining Material Chest
+Meowlux Vault Box
+Basic Star Chest (Bound)
+Advanced Cooking - Select
+Surprise Toy Chest
+Plains Will Chest
+Cheer-Up Treat
+Mystery Toy Chest
+Raw Module: Attack
+Raw Module: Support
+Raw Module: Guardian
+Elite Loot
+Boss Loot
+Module Loot
+Stimen Vaults Loot
+Space Loot - Stage 1
+Space Loot - Stage 2
+Space Loot - Stage 2
+Space Loot - Stage 3
+Guild's Supply Chest
+Homestead Coin Pouch
+Dye Pack - Select
+Spray Pack - Select
+Gift of the Sea Breeze
+Rare Material Select Box
+Serum Select Box
+Drop Select Box
+Living Essentials Pack
+Lv.40 Legendary Gear Select Box
+Reclaim Chest
+Gatherer's Basket
+Dragon Shackles Loot
+Izcorgiky Loot I
+Xiolotl Loot I
+Tonatiuh Loot I
+Izcorgiky Loot II
+Xiolotl Loot II
+Tonatiuh Loot II
+Izcorgiky Loot III
+Xiolotl Loot III
+Tonatiuh Loot III
+Emberglow Weapon - Select
+Advanced Serum Select Box
+Advanced Cooking Select Box
+Sovereign Alloy Shard Box
+Lv.80 Gear - Reclaim Chest
+Lv.40 Legendary Weapon
+Lv.40 Legendary Helmet
+Lv.40 Legendary Armor
+Lv.40 Legendary Gauntlets
+Lv.40 Legendary Shoes
+Lv.40 Legendary Earrings
+Lv.40 Legendary Necklace
+Lv.40 Legendary Ring
+Lv.40 Legendary Bracelet (L)
+Lv.40 Legendary Bracelet (R)
+Lv.40 Legendary Charm
+Lv.60 Legendary Weapon
+Lv.60 Legendary Helmet
+Lv.60 Legendary Armor
+Lv.60 Legendary Gauntlets
+Lv.60 Legendary Shoes
+Lv.60 Legendary Earrings
+Lv.60 Legendary Necklace
+Lv.60 Legendary Ring
+Lv.60 Legendary Bracelet (L)
+Lv.60 Legendary Bracelet (R)
+Lv.60 Legendary Charm
+Lv.60 Legendary Gear Chest
+Lv.80 Legendary Weapon
+Lv.80 Legendary Helmet
+Lv.80 Legendary Armor
+Lv.80 Legendary Gauntlets
+Lv.80 Legendary Shoes
+Lv.80 Legendary Earrings
+Lv.80 Legendary Necklace
+Lv.80 Legendary Ring
+Lv.80 Legendary Bracelet (L)
+Lv.80 Legendary Bracelet (R)
+Lv.80 Legendary Charm
+Lv.80 Legendary Gear Chest
+Tina's Mindrealm Random Gear
+Tina's Mindrealm Random Gear
+Tina's Mindrealm Random Gear
+Towering Ruin Random Gear
+Towering Ruin Random Gear
+Towering Ruin Random Gear
+Dragon Claw Valley Random Gear
+Dragon Claw Valley Random Gear
+Dragon Claw Valley Random Gear
+Dark Mist Fortress Random Gear
+Dark Mist Fortress Random Gear
+Dark Mist Fortress Random Gear
+Goblin Lair Random Gear
+Goblin Lair Random Gear
+Goblin Lair Random Gear
+Kanamia Trial Random Gear
+Kanamia Trial Random Gear
+Kanamia Trial Random Gear
+Tina's Mindrealm First-Clear Reward I
+Tina's Mindrealm - Bane Reward I
+Tina's Mindrealm First-Clear Reward II
+Tina's Mindrealm - Bane Reward II
+Tina's Mindrealm First-Clear Reward III
+Tina's Mindrealm - Bane Reward III
+Towering Ruin First-Clear Reward I
+Towering Ruin - Bane Reward I
+Towering Ruin First-Clear Reward II
+Towering Ruin - Bane Reward II
+Towering Ruin First-Clear Reward III
+Towering Ruin - Bane Reward III
+Dragon Claw Valley First-Clear Reward I
+Dragon Claw Valley - Bane Reward I
+Dragon Claw Valley First-Clear Reward II
+Dragon Claw Valley - Bane Reward II
+Dragon Claw Valley First-Clear Reward III
+Dragon Claw Valley - Bane Reward III
+Dark Mist Fortress First-Clear Reward I
+Dark Mist Fortress - Bane Reward I
+Dark Mist Fortress First-Clear Reward II
+Dark Mist Fortress - Bane Reward II
+Dark Mist Fortress First-Clear Reward III
+Dark Mist Fortress - Bane Reward III
+Goblin Lair First-Clear Reward I
+Goblin Lair - Bane Reward I
+Goblin Lair First-Clear Reward II
+Goblin Lair - Bane Reward II
+Goblin Lair First-Clear Reward III
+Goblin Lair - Bane Reward III
+Kanamia Trial First-Clear Reward I
+Kanamia Trial - Bane Reward I
+Kanamia Trial First-Clear Reward II
+Kanamia Trial - Bane Reward II
+Kanamia Trial First-Clear Reward III
+Kanamia Trial - Bane Reward III
+Lv.40 Gear - Goblin Kit
+Lv.40 Gear - Tempest Ogre Kit
+Lv.40 Gear - Celestial Flier Kit
+Lv.40 Gear - Lizardman King Kit
+Lv.40 Gear - Goblin King Kit
+Lv.40 Gear - Muku King Kit
+Lv.60 Gear - Goblin Kit
+Lv.60 Gear - Tempest Ogre Kit
+Lv.60 Gear - Celestial Flier Kit
+Lv.60 Gear - Lizardman King Kit
+Lv.60 Gear - Goblin King Kit
+Lv.60 Gear - Muku King Kit
+Lv.80 Gear - Goblin Kit
+Lv.80 Gear - Tempest Ogre Kit
+Lv.80 Gear - Celestial Flier Kit
+Lv.80 Gear - Lizardman King Kit
+Lv.80 Gear - Goblin King Kit
+Lv.80 Gear - Muku King Kit
+Lv.40 Gear - Phantom Arachnocrab Kit
+Lv.40 Gear - Brigand Captain Kit
+Lv.40 Gear - Venobzzar Incubator Kit
+Lv.40 Gear - Muku Chief Kit
+Lv.40 Gear - Iron Fang Kit
+Dragon Feather Silk
+Magunia Crystal
+Brand of Chaos - Rare
+Amber of Time - Rare
+Prism of Illusion - Rare
+Shreds of Reality - Rare
+Primordial Core - Rare
+Immortal Bloom - Rare
+Boss Material Placeholder 7
+Boss Material Placeholder 8
+Boss Material Placeholder 9
+Boss Material Placeholder 10
+Brand of Chaos
+Amber of Time
+Prism of Illusion
+Shreds of Reality
+Primordial Core
+Immortal Bloom
+A-Class Overworld Monster Drop 7
+A-Class Overworld Monster Drop 8
+A-Class Overworld Monster Drop 9
+A-Class Overworld Monster Drop 10
+A-Class Overworld Monster Drop 11
+A-Class Overworld Monster Drop 12
+A-Class Overworld Monster Drop 13
+A-Class Overworld Monster Drop 14
+A-Class Overworld Monster Drop 15
+Goblin Mane
+Goblin Fang
+Goblin Tail
+Muku Nail
+Muku's Pelt
+Lizardman's Hidden Pearl
+Brigand's Gloves
+Brigand's Sword
+Dark Mist Badge
+Mighty Colossus's claw
+Soft Beast Fur
+Boarrier Tusk
+Skyfish's Giant Fin
+Bzzar Wing
+Arachnocrab's Shell
+Caprahorn's Horn
+B-Class Overworld Monster Drop 17
+B-Class Overworld Monster Drop 18
+B-Class Overworld Monster Drop 19
+B-Class Overworld Monster Drop 20
+Fire Crystal Shard Lv.1
+Ice Crystal Shard Lv.1
+Lightning Crystal Shard Lv.1
+Wind Crystal Shard Lv.1
+Earth Crystal Shard Lv.1
+Forest Crystal Shard Lv.1
+Light Crystal Shard Lv.1
+Dark Crystal Shard Lv.1
+Fire Crystal Shard Lv.2
+Ice Crystal Shard Lv.2
+Lightning Crystal Shard Lv.2
+Wind Crystal Shard Lv.2
+Earth Crystal Shard Lv.2
+Forest Crystal Shard Lv.2
+Light Crystal Shard Lv.2
+Dark Crystal Shard Lv.2
+Fire Crystal Shard Lv.3
+Ice Crystal Shard Lv.3
+Lightning Crystal Shard Lv.3
+Wind Crystal Shard Lv.3
+Earth Crystal Shard Lv.3
+Forest Crystal Shard Lv.3
+Light Crystal Shard Lv.3
+Dark Crystal Shard Lv.3
+Shiny Fine Thread
+Hard Scrap
+Brigand's Gloves
+Soft Feather
+Iron Scrap
+Broken Arrow
+Crystal Shard
+Messy Fur
+Damaged Claw
+Soft Shell
+Luminous Body
+Nameless Scrap
+D-Class Overworld Monster Drop 13
+D-Class Overworld Monster Drop 14
+D-Class Overworld Monster Drop 15
+D-Class Overworld Monster Drop 16
+D-Class Overworld Monster Drop 17
+D-Class Overworld Monster Drop 18
+D-Class Overworld Monster Drop 19
+D-Class Overworld Monster Drop 20
+Golden Juggernaut Doll
+Frost Ogre Doll
+Inferno Ogre Doll
+Phantom Arachnocrab Doll
+Brigand Leader Doll
+Venobzzar Incubator Doll
+Muku Chief Doll
+Iron Fang Doll
+King Goblin Doll
+Tempest Ogre Doll
+Celestial Flier Doll
+Lizardman King Doll
+King Goblin Doll
+Muku King Doll
+Lovely Boarlet Doll
+Breezy Boarlet Doll
+Loyal Boarlet Doll
+Golden Nappo Doll
+Silver Nappo Doll
+Caprahorn Doll
+Goblin Doll α
+Goblin Doll β
+Colossus Doll
+Boar Doll
+Arachnocrab Doll
+Wasp Doll
+Muku Doll α
+Muku Doll β
+Lizardman Doll
+Skyfish Doll
+Dye - Red
+Dye - Yellow
+Dye - Green
+Dye - Cyan
+Dye - Blue
+Dye - Epic
+GPA Energy Box
+Regular Bait
+Advanced Bait
+Star Expansion - Origin
+Star Expansion - Core
+Star Expansion - Structure
+Five Treasures-4
+Five Treasures-5
+"Revive" Candy
+Precise Bait
+Special Bait
+Beginner's Bait
+Design for Code Robot
+Design for Code Robot
+Design for Explorer
+Design for Explorer
+Design for Deskmate - Top
+Design for Deskmate - Top
+Design for Deskmate - Bottom
+Design for Deskmate - Bottom
+Design for Explorer
+Design for Explorer
+Design for Explorer
+Design for Explorer
+Design for Deskmate - Shoes
+Design for Deskmate - Shoes
+Design for Code Robot
+Design for Explorer
+Design for Shell
+Design for Corgi Plush
+Design for Shark Doll
+Design for Casual Fisherman Hat
+Design for Gem Hairpin
+Design for Shadow-Pattern Baseball Cap
+Design for Buckle Baseball Cap
+Design for Ribbon Bow
+Design for Monster Hat I
+Design for Boarrier Hat
+Design for Fluffy Hairband
+Design for Sea Breeze Weaver
+Design for Plaid Beret
+Design for Winter Warmth
+Design for Top Hat
+Design for Soldier Helmet
+Design for Boarlet Cap
+Design for Turkey Hat
+Design for Nappo Style
+Design for Owl Hat
+Design for Ee-chan's Hat
+Design for Jester Hat
+Design for Exclamation Mark
+Design for Arrow
+Design for Blooming Ode
+Design for Bellflower
+Design for Fluttering Ribbon
+Design for Small Top Hat
+Design for Black Rabbit Hairpin
+Design for Rabbit Ear Bow
+Design for Nappo
+Design for Commemorative Hat
+Design for Crimson Bell
+Design for Youthful Hairpin
+Design for Sleepy Kitty
+Design for Sleepy Puppy
+Design for Thick Frame Glasses
+Design for Half Glasses
+Design for Crescent Glasses
+Design for Wacky Glasses
+Design for Dark Veil
+Design for Sweet Dreams Eyemask
+Design for Runic Eyemask
+Design for Black Sunglasses
+Design for Vintage Glasses
+Design for Half Sunglasses
+Design for Pixelated Glasses
+Design for Clown Mask
+Design for Bubblegum
+Design for Mask
+Design for Bread Slice
+Design for Beard
+Design for Chocolate Bar
+Design for Respirator
+Design for Snow Beard
+Design for Assassin Mask
+Design for Candy Pop
+Design for Blade Clench
+Design for Azure Zircon
+Design for Whisper Wind
+Design for Argent Wing
+Design for Gem
+Design for Azure Zircon
+Design for Gem
+Design for Azure Zircon
+Design for Crimson Agate
+Design for Square Gem
+Design for Gem
+Design for Ribbon Bow
+Design for Young Wolf
+Design for Meowstar Envoy
+Design for Top Hat
+Design for Ribbon Hat
+Design for Ribbon Bow Beret
+Design for Shadow Hunter
+Design for Training Suit
+Design for Training Suit
+Design for Training Suit
+Design for Training Suit
+Design for Training Suit
+Design for Training Suit
+Design for Training Suit
+Design for Training Suit
+Design for Smart Robot
+Outfit Design Placeholder 15
+Outfit Design Placeholder 16
+Outfit Design Placeholder 17
+Outfit Design Placeholder 18
+Outfit Design Placeholder 19
+Outfit Design Placeholder 20
+Outfit Design Placeholder 21
+Outfit Design Placeholder 22
+Outfit Design Placeholder 23
+Outfit Design Placeholder 24
+Outfit Design Placeholder 25
+Outfit Design Placeholder 26
+Outfit Design Placeholder 27
+Outfit Design Placeholder 28
+Outfit Design Placeholder 29
+Outfit Design Placeholder 30
+Outfit Design Placeholder 31
+Outfit Design Placeholder 32
+Outfit Design Placeholder 33
+Outfit Design Placeholder 34
+Outfit Design Placeholder 35
+Outfit Design Placeholder 36
+Outfit Design Placeholder 37
+Outfit Design Placeholder 38
+Outfit Design Placeholder 39
+Outfit Design Placeholder 40
+Outfit Design Placeholder 41
+Outfit Design Placeholder 42
+Outfit Design Placeholder 43
+Outfit Design Placeholder 44
+Outfit Design Placeholder 45
+Outfit Design Placeholder 46
+Outfit Design Placeholder 47
+Outfit Design Placeholder 48
+Outfit Design Placeholder 49
+Outfit Design Placeholder 50
+Outfit Design Placeholder 51
+Outfit Design Placeholder 52
+Outfit Design Placeholder 53
+Outfit Design Placeholder 54
+Outfit Design Placeholder 55
+Outfit Design Placeholder 56
+Outfit Design Placeholder 57
+Outfit Design Placeholder 58
+Outfit Design Placeholder 59
+Outfit Design Placeholder 60
+Outfit Design Placeholder 61
+Outfit Design Placeholder 62
+Outfit Design Placeholder 63
+Outfit Design Placeholder 64
+Outfit Design Placeholder 65
+Outfit Design Placeholder 66
+Outfit Design Placeholder 67
+Outfit Design Placeholder 68
+Outfit Design Placeholder 69
+Outfit Design Placeholder 70
+Outfit Design Placeholder 71
+Outfit Design Placeholder 72
+Outfit Design Placeholder 73
+Outfit Design Placeholder 74
+Outfit Design Placeholder 75
+Outfit Design Placeholder 76
+Outfit Design Placeholder 77
+Outfit Design Placeholder 78
+Outfit Design Placeholder 79
+Outfit Design Placeholder 80
+Outfit Design Placeholder 81
+Outfit Design Placeholder 82
+Outfit Design Placeholder 83
+Outfit Design Placeholder 84
+Outfit Design Placeholder 85
+Outfit Design Placeholder 86
+Outfit Design Placeholder 87
+Outfit Design Placeholder 88
+Outfit Design Placeholder 89
+Outfit Design Placeholder 90
+Outfit Design Placeholder 91
+Outfit Design Placeholder 92
+Outfit Design Placeholder 93
+Outfit Design Placeholder 94
+Outfit Design Placeholder 95
+Outfit Design Placeholder 96
+Outfit Design Placeholder 97
+Outfit Design Placeholder 98
+Outfit Design Placeholder 99
+Outfit Design Placeholder 100
+Outfit Design Placeholder 101
+Outfit Design Placeholder 102
+Outfit Design Placeholder 103
+Outfit Design Placeholder 104
+Outfit Design Placeholder 105
+Outfit Design Placeholder 106
+Outfit Design Placeholder 107
+Outfit Design Placeholder 108
+Outfit Design Placeholder 109
+Outfit Design Placeholder 110
+Outfit Design Placeholder 111
+Outfit Design Placeholder 112
+Outfit Design Placeholder 113
+Outfit Design Placeholder 114
+Fertilizer
+Advanced Fertilizer
+Sterilizing Fertilizer
+Earl Grey / Midnight Rose Box
+Youth Memoir
+Deskmate Box
+Dawn & Silver Set
+Detective Pack
+Stellar Raider Box
+Code Robot Box
+Steel Plate
+Argent Lunar
+Abyssal Breastplate
+Adventurer
+Earl Grey/Midnight Rose Pack
+Dawn & Silver Pack
+Youth Memoir Pack
+Deskmate Pack
+Steel Plate Pack
+Argent Lunar Pack
+Abyssal Breastplate Pack
+Adventurer Pack
+Detective Pack
+Long Vacation Pack
+Fluffy Dreams Pack
+Order Guardian Pack
+T-Zero Defense
+Royal Attire Pack
+Shadow Hunter Pack
+Sleepy Kitty
+Sleepy Puppy
+Hairstyle Bundle I
+Hairstyle Bundle II
+Hairstyle Bundle III
+Hairstyle Bundle IV
+Hairstyle Bundle I
+Hairstyle Bundle V
+Hairstyle Bundle III
+Hairstyle Bundle IV
+Shadow Hunter Pack
+Ee-chan's Hat
+Jester Hat
+Nappo
+Sakura Blizzard Pack
+Veiled Moon Pack
+Wig Hat
+Youthful Hairpin
+Hairstyle Bundle II
+Long Vacation - Top
+Long Vacation - Bottom
+Sunny Day - Top
+Sunny Day - Bottom
+Long Vacation - Shoes
+Corgi Plush
+Boarlet Cap
+Owl Hat
+Ee-chan's Hat
+Exclamation Mark
+Arrow Mark
+Snuggly Airona - Headwear
+Sleepy Nappo
+Dark Veil
+Sweet Dreams Eyemask
+Snow Woven Veil
+Runic Eyemask
+Pixelated Glasses
+Novelty Glasses
+Petit Mustache
+Candy Pop
+Leaf Blade
+Bubblegum
+Blade Clench
+Rose Bloom
+Beard
+Snow Beard
+Fairy Ears
+Tidal Jewel
+Royal Horse: Platinum
+Tidal Jewel
+Tidal Jewel
+Azure Zircon Accessory Box
+Glowing Gem Accessory Box
+Tidal Jewel Box
+Angel Wings
+Demon Wings
+Thunder Demon Backpack
+Goblin Backpack
+Nappo Style Set
+Meowlux Mystery Box
+Limited Airona Set
+Sakura Blizzard Pack
+Veiled Moon Pack
+Snow Moon Pack
+Good Morning Set
+Rite Ceremony Set
+Companionship Set
+Youth Memoir Pack
+Deskmate's Set
+Code Robot Pack
+Recon Oculoid Pack
+Doombane Skin Pack
+Air Rider Skin Pack
+Sakura Blade
+Sakura Staff
+Sakura Lance
+Sakura Ring
+Sakura Edge
+Sakura Bow
+Sakura Aegis
+Sakura Guitar
+Hairstyle Pack III
+Hairstyle Pack II
+Hairstyle Pack 3
+Flawless Domain Pack
+Rose Attire
+Starry Domain
+Blueberry Party Pack
+Orange Sparkle Pack
+Strawberry Bubble Pack
+Campus Swimsuit Pack
+Night Shard Pack
+Time Dancer Pack
+Fluffy White Pack
+Alpha Cut Box
+Sage's Gaze Box
+Mooncleaver - Backwear
+Lucky Clover - Mouthwear
+After-School - Top
+After-School - Bottom
+After-School - Shoes
+Seabreeze Duet Pack
+Season Pass
+Supreme Season Pass
+Penguin Hat Pack (Choose 1)
+Doll Pack (Choose 1)
+QQ Game Pack
+WeGame Pack
+Monthly Collection Card
+Solsticera Set
+Coral Solsticera
+Royal Horse - Golden Black
+Mini Golem
+Skin: Scarlet Golem
+Byrnhald Golem
+Skin: Cyan Golem
+Skin: Pearl Golem
+Shimmering Beautifish
+Lustrous Beautifish
+Radiant Beautifish
+Nappo Floatie
+Ee-chan Floatie
+Wish Select Box
+After-School - Top
+After-School - Pants Box
+After-School - Shoes
+Sage's Gaze - Facewear
+Lucky Clover - Mouthwear
+Alpha Cut - Headwear
+Mooncleaver - Backwear
+Style Refresh Set
+Skin: Electro Golem
+Skin: Solstic Beautifish
+Class Fashion 1-out-of-7 Set
+Nocturne Concerto Pack
+Starflare Hairpin Pack
+Starflare Glasses Pack
+Mini TV Hairpin Pack
+Mini Bolt Pack
+Mini Crescent Pack
+Elite Glasses Pack
+Limited Baseball Cap
+Eaglefeather Steed Pack
+Loyal Pickup Pup Pack
+Astral Delivery Pack
+Stellar Raider Pack
+Twilight Iron Guard Pack
+Commander Uniform Pack
+Explorer Pack
+Silver Armor Pack
+Great Magician Pack
+Snowfall Sakura Pack
+Naruko's Summer Swimsuit Mega Pack
+Naruko's Summer Swimsuit Individual Pack
+Core Drive Pack
+Xeno Mimic Pack
+Awakened Drive
+Disorder Mimic
+Hyper Impulse
+Golem Foxen
+Skin: Firestorm Impulse
+Skin: Abyss Foxen
+Carnival Collection I​
+Carnival Collection II​
+Carnival Collection III​
+Envoy of Night Box
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Fashion Gift Box Placeholder
+Star Resonance Download Pack
+TapTap Download Pack
+bilibili Download Pack
+iOS Download Pack
+Tencent Appstore Download Pack
+Xinyue Lv.1-G4 Download Pack
+Xinyue V1-V2 Download Pack
+Xinyue V3-V4 Download Pack
+Xinyue V5 Download Pack
+Huawei Download Pack
+Tencent Iwan Download Pack
+OPPO Download Pack
+vivo Download Pack
+Xiaomi Download Pack
+Honor Download Pack
+3839 Download Pack
+4399 Download Pack
+Kuaishou Download Pack
+Douyin Download Pack
+Huya Download Pack
+Browser Download Pack
+Tencent News Download Pack
+SuperCore Download Pack
+Shangtuo Download Pack I
+Shangtuo Download Pack II
+Shangtuo Download Pack III
+Shangtuo Download Pack IV
+Starlit Promise - A Gift of Sincere Apologies and Thanks
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Operations Box Placeholder
+Rename Card
+Talent Reset Voucher
+Elite Loot Key
+Boss Loot Key
+Outfit Redem Voucher
+Guild Token
+Alloy Shard
+Keystone of Destiny
+Luno Amber
+Meowlux Premium Card
+Meowlux Vault Card
+Module Component
+Advanced Module Component
+Perfect Component
+Emblem Initialization Tech
+Refresh Voucher
+Meowlux Wish Coin
+Solar Radiance
+Asteria Reputation
+Season 1 Ultimate Points
+Advanced Alloy Shard
+Hero's Radiance
+Auto Combo Instructions
+Season Achievement Wish Card
+Stunt Will - Fragment
+Heavy Alloy Shard
+Sovereign Alloy Shard
+Arcane Will - Fragment
+Meowlux Wish Coin (Bound)
+Will Wish Coin
+Runic Alloy Shard
+Void Alloy Shard
+Throne (Gold)
+Throne (Pure Gold)
+Glinting Stellar Core
+Magic Wrench
+50% Off Appearance Coupon (Test)
+20% Off Appearance Coupon (Test)
+20% Off Mount Coupon (Test)
+20% Off Weapon Skin Coupon (Test)
+50 Rose Orb Appearance Coupon (Test)
+100 Rose Orb Appearance Coupon (Test)
+500 Rose Orb Appearance Coupon (Test)
+50 Rose Orb Mount Coupon (Test)
+100 Rose Orb Mount Coupon (Test)
+50 Rose Orb Weapon Skin Coupon (Test)
+100 Rose Orb Specific Appearance Coupon (Test)
+Common Achievement Trophy
+Superior Achievement Trophy
+Honor Proof
+Emote: Apologize
+Emote: Wary
+Emote: Delighted
+Emote: Shush
+Emote: Proud
+Emote: Contempt
+Emote: Panic
+Emote: Military Salute I
+Emote: Military Salute II
+Emote: Bunny Ears
+Emote: Body Stretch I
+Emote: Head Scratch
+Emote: Body Stretch II
+Emote: Full Support
+Emote: Be Mine
+Emote: I'm Yours
+Emote: Squat
+Emote: Play Dead
+Emote: Shift Posture
+Emote: Dance II
+Emote: Anticipating I
+Emote: Anticipating II
+Emote: Anticipating III
+Emote: Showcase I
+Emote: Showcase II
+Emote: Showcase III
+Emote: Showcase IV
+Emote: Cool Pose I
+Emote: Cute Pose I
+Emote: Flex I
+Emote: Flex II
+Emote: Lie Down
+Emote: Lie Down Leg Swing
+Emote: Sunbathe
+Emote: Lie on Side
+Emote: Hand Holding
+Emote: Three-Step Dance
+Emote: Four-Step Dance
+Emote: Five-Step Dance
+Emote: Six-Step Dance
+Emote: Seven-Step Dance
+Emote: Cheer On
+Emote: Showcase V
+Emote: Showcase VI
+Emote: Left Thumbs Up
+Emote: Right Thumbs Up
+Emote: Heart Gesture(L)
+Emote: Heart Gesture(R)
+Emote: Camaraderie
+Emote: Starry Domain
+Emote: Rose Attire
+Emote: Reverie Rhapsody
+Emote: Coral Solsticera
+Emote: Confetti
+Emote: Confetti Barrage
+Emote: Fan I
+Emote: Fan II
+Emote: Drying Fish I
+Emote: Coral Solsticera (Abandoned)
+Emote: Bow III
+Emote: Cheer
+Emote: Cheers
+Emote: Come On
+Emote: Cool Pose II
+Emote: Cool Pose III
+Emote: Cute Pose II
+Emote: Cute Pose III
+Emote: Awkward
+Emote: Dance VIII
+Emote: Dance IX
+Emote: Snap
+Emote: Showcase VII
+Emote: Surprise I
+Emote: Surprise II
+Emote: Cool Pose IV
+Emote: Dance X
+Emote: Put Away
+Emote: Kneeling Thanks
+Emote: Showcase VIII
+Emote: Kitty Paws
+Emote: Beg Sweetly
+Emote: Drum Solo
+Emote: Boxing Practice
+Emote: Snowball Fight
+Emote: Build a Snow Knight
+Emote: Crouch and Observe
+Emote: Shrug I
+Emote: Thinking
+Emote: Stylish Kiss I
+Emote: Stylish Kiss II
+Emote: Praise
+Emote: Salute III
+Emote: Warm-up
+Emote: Stage Wave
+Emote: Furious
+Emote: Crouch I
+Emote: Crouch II
+Emote: Left!
+Emote: Front!
+Emote: Right!
+Emote: Encourage
+Emote: Sad
+Emote: Shrug II
+Emote: Awakened Drive
+Emote: Disorder Mimic
+Emote: Tribal Dance
+Emote: Cool Pose V
+Emote: Cool Pose VI
+Emote: Cool Pose VII
+Emote: Cute Pose IV
+Emote: Cute Pose V
+Fishing Pole
+Guild Charter
+Warehouse Voucher
+Guild Voucher - Avatar
+Guild Voucher - Namecard
+Guild Voucher - Avatar
+Guild Voucher - Namecard
+Focus Potion
+Custom Namecard Holder
+Reset Ticket
+Toy - White Fireworks
+Toy - Blue Fireworks
+Toy - Green Fireworks
+Toy - Pink Fireworks
+Toy - Epic Fireworks
+Toy - Legendary Fireworks
+Toy - Yellow Fireworks
+Toy - Rainbow Fireworks
+Toy - Ee-chan Firework
+Toy - Bubble Stick
+Toy - Water Spell
+Toy - Fairy Stick
+Toy - Phantom Toy
+Toy - Shadow Particles
+Toy - Hover Bubble
+Toy - Adorable Sculpture
+Toy - Imposing Sculpture
+Toy - Scenery Canvas
+Toy - Yellow Light Stick
+Toy - Cyan Light Stick
+Toy - Green Light Stick
+Toy - Epic Light Stick
+Toy - Golden Statue
+Toy - Silver Statue
+Toy - Yellow Sparkler
+Toy - Frost Beam
+Toy - Cute Reading Pose
+Toy - Bouncing Device
+Toy - Land Explorer
+Toy - Small Light Bridge
+Toy - Extended Light Bridge
+Visage Reforger
+Mixing Agent
+Coloring Voucher
+Hairstyle Voucher
+S-Outfit Crafting Item 2
+Hairstyle Voucher I
+Hairstyle Voucher II
+Hairstyle Voucher III
+Hairstyle Voucher IV
+Hairstyle Voucher I
+Hairstyle Voucher II
+Hairstyle Voucher III
+Hairstyle Voucher IV
+Front Hair Voucher I
+Front Hair Voucher II
+Front Hair Voucher III
+Front Hair Voucher IV
+Front Hair Voucher I
+Front Hair Voucher V
+Front Hair Voucher III
+Front Hair Voucher IV
+Back Hair Voucher I
+Back Hair Voucher II
+Back Hair Voucher III
+Back Hair Voucher IV
+Back Hair Voucher I
+Back Hair Voucher V
+Back Hair Voucher III
+Back Hair Voucher IV
+Top Hair Voucher I
+Top Hair Voucher II
+Top Hair Voucher III
+Top Hair Voucher IV
+Top Hair Voucher V
+Top Hair Voucher VI
+Top Hair Voucher VII
+Top Hair Voucher I
+Top Hair Voucher II
+Top Hair Voucher III
+Top Hair Voucher IV
+Top Hair Voucher V
+Top Hair Voucher VI
+Top Hair Voucher VII
+Top Hair Voucher - First Sight
+Front Hair Voucher II
+Back Hair Voucher II
+Hairstyle Voucher V
+Front Hair Voucher
+Front Hair Voucher
+Back Hair Voucher
+Back Hair Voucher
+Hairstyle Voucher
+Hairstyle Voucher
+Hairstyle Voucher
+Hairstyle Voucher
+Hairstyle Voucher
+Hairstyle Voucher
+Top Hair Unlock Voucher
+Top Hair Unlock Voucher
+Top Hair Unlock Voucher
+Top Hair Unlock Voucher
+Top Hair Unlock Voucher
+Front Hair Voucher
+Back Hair Voucher
+Hairstyle Voucher - Core Drive
+Hairstyle Voucher - Xeno Mimic
+Hairstyle Voucher - Reverie Rhapsody
+Hairstyle Voucher - Starry Night
+Front Hair Voucher - Core Drive
+Back Hair Voucher - Core Drive
+Skin: Melon Oculoid
+Skin: Tropical Oculoid
+Skin: Blade Oculoid
+Skin: Shadow Doombane
+Skin: Joyous Doombane
+Skin: Air Rider Type β
+Skin: Air Rider Type γ
+Skin: Golden Black
+Skin: Scarlet Golem
+Skin: Cyan Golem
+Skin: Pearl Golem
+Skin: Loyal Boarlet
+Skin: Lovely Boarlet
+Skin: Breezy Boarlet
+Skin: Fluffy Ranger Rabbit
+Skin: Lustrous Beautifish
+Skin: Radiant Beautifish
+Skin: Dawnlight Stage
+Skin: Solstic Beautifish
+Skin: Mirage Beautifish
+Skin: Lovely Pickup Pup
+Skin: Wild Pickup Pup
+Skin: Electro Golem
+Skin: Wave Steed
+Skin: Shiny Steed
+Skin: Starlight Stage
+Skin: Moonlight Stage
+Skin: Crimson Foxen
+Skin: Night Foxen
+Skin: Abyss Foxen
+Skin: Firestorm Impulse
+Skin: Fleeting Dvilray
+Homestead Furniture Preview Pack
+Skin: Rose Set
+Skin: Rose Gauntlets
+Skin: Rose Shoes
+Skin: Starry Set
+Skin: Starry Headwear
+Skin: Coral Solsticera Set
+Skin: Coral Solsticera Headwear
+Skin: Reverie Abyss Set
+Skin: Reverie Abyss - Headwear
+Skin: Awakened Drive - Set
+Skin: Awakened Drive - Headwear
+Skin: Disorder Mimic - Set
+Skin: Disorder Mimic - Headwear
+Luminous Tsubaki - Swallow Counter
+Sakura Maelstrom - Floral Hailstorm
+Vermilion Spell - Radiant Falling Petals
+Petal Storm - Cicada Flash
+Emerald Vines - Crimson Halo
+Octave Snowfall - Sakura Ichimonoji
+Sakurani Slash - Mountain Shatterer
+Hanami Frenzy - Sakura's Touch
+Airona - Thumbs Up
+Airona - Love
+Island Ownership
+Airona - Go
+Airona - Crashed
+Airona - Shy
+Airona - Tsundere
+Airona - Admire
+Airona - Me Again
+Airona - Puzzled
+Airona - Embarrassed
+Airona - Stare
+Airona - Despair
+Airona - Sobbing
+Furniture: Noisy Balloons
+Furniture: Forgotten Sandpile I
+Furniture: Forgotten Sandpile II
+Furniture: Forgotten Sandpile III
+Furniture: Orange Floatie
+Furniture: Wave Floatie
+Furniture: Coconut Floatie
+Furniture: Fiery Floatie
+Furniture: Cooling Floatie
+Furniture: Beach Volleyball - Summer
+Furniture: Beach Volleyball - Vivid
+Furniture: Beach Volleyball - Wave
+Furniture: Surfboard - Sunny Sea
+Furniture: Surfboard - Swift Sail
+Furniture: Surfboard - Glare
+Furniture: Leisure Decor
+Furniture: Joyful Moments
+Furniture: Gathering Memories
+Furniture: Sea Breeze Snapshot
+Burning Powder
+Metal Dust
+Metal Ingot
+Fast-burning Powder
+Baru Ore
+Baru Rich Ore
+Baru Rich Ore
+Azte Ore
+Azte Rich Ore
+Azte Pure Ore
+Luna Ore
+Luna Rich Ore
+Luna Pure Ore
+Stokes Ore
+Stokes Rich Ore
+Stokes Rich Ore
+Pig Iron Ingot
+Pig Iron Rivet
+Pig Iron Plate
+Bronze Ingot
+Bronze Plate
+Bronze Ring
+Brass Ingot
+Brass Plate
+Brass Ring
+Cobalt-Iron Ingot
+Cobalt-iron Plate
+Cobalt-iron Ring
+Lustrous Copper Ingot
+Lustrous Copper Plate
+Lustrous Copper Ring
+Mithril Ingot
+Mithril Plate
+Mithril Ring
+Gleaming Gold Ingot
+Gleaming Gold Plate
+Gleaming Legendary Ring
+Mithril Alloy Ingot
+Mithril Alloy Plate
+Mithril Alloy Ring
+Gem Wax
+Strong Molding Agent
+Red Powder
+Blue Powder
+Green Powder
+Yellow Powder
+Starlight Ruby Lv.1
+Starlight Ruby Lv.2
+Starlight Ruby Lv.3
+Starlight Sapphire Lv.1
+Starlight Sapphire Lv.2
+Starlight Sapphire Lv.3
+Starlight Emerald Lv.1
+Starlight Emerald Lv.2
+Starlight Emerald Lv.3
+Starlight Diamond Lv.1
+Starlight Diamond Lv.2
+Starlight Diamond Lv.3
+Cut Stone
+Stone Slab
+Rough Paper
+Sandstone Polishers
+Quartz Sand
+Sapphire
+Ruby
+Topaz
+Emerald
+Red Agate
+Titanite
+Azure Stone
+Peridot
+Sunstone
+Spodumene
+Durable Paper
+Shale Cut Stone
+Shale Plate
+Shale Polishing Stone
+Granite Cut Stone
+Granite Plate
+Granite Polishing Stone
+Feldspar
+Mica
+Kilaueite
+Topaz
+Starburst Spar
+Cyan Bellstone
+Orange Spinel
+Aurora Stone
+Black Coral
+Element Extractor
+Purifier
+[Abandoned] Purifier
+Placeholder Material
+Ice Particle Lv.1
+Ice Particle Lv.2
+Ice Particle Lv.3
+Fire Particle Lv.1
+Fire Particle Lv.2
+Fire Particle Lv.3
+Forest Particle Lv.1
+Forest Particle Lv.2
+Forest Particle Lv.3
+Earth Particle Lv.1
+Earth Particle Lv.2
+Earth Particle Lv.3
+Wind Particle Lv.1
+Wind Particle Lv.2
+Wind Particle Lv.3
+Lightning Particle Lv.1
+Lightning Particle Lv.2
+Lightning Particle Lv.3
+Light Particle Lv.1
+Light Particle Lv.2
+Light Particle Lv.3
+Dark Particle Lv.1
+Dark Particle Lv.2
+Dark Particle Lv.3
+Fresh Meat
+Premium Raw Meat
+Exquisite Raw Meat
+Raw Meat - Multiple
+Premium Raw Meat - Multiple
+Exquisite Raw Meat - Multiple
+Fish Meat
+Premium Fish Meat
+Premium Fish Meat
+Fish Meat - Multiple
+Premium Fish Meat - Multiple
+Exquisite Fish Meat - Multiple
+Named Fish Meat Placeholder
+Named Fish Meat Placeholder
+Named Fish Meat Placeholder
+Named Fish Meat Placeholder
+Potion Catalyst - REC
+Potion Catalyst - ENH
+Potion Catalyst - RES
+Arcane Conversion Potion
+Knowledge Convert Potion
+Color Purification Catalyst
+Neutralizing Reaction Catalyst
+Placeholder Item
+Boiled Water
+Plant Oil
+Mortar
+Natron
+Rubber
+Ink
+Enigmite Powder
+Mixing Agent
+Varnish
+Chitin fiber
+Red Spray
+Orange Spray
+Yellow Spray
+Green Spray
+Cyan Spray
+Blue Spray
+Purple Spray
+Fired Brick
+Beeswax
+Glass Plate
+Adhesive
+Low-Purity Fish Oil
+Evergreen Agent T-1
+Bioluminescent Microalgae
+Evergreen Agent T-2
+Advanced Brick
+Oil Wax
+Advanced Plate
+Black Adhesive
+Refined Fish Oil
+Evergreen Agent T-3
+Fluorescent Lamp T-1
+Evergreen Agent T-4
+Residue-Free Adhesive
+Essence Fish Oil
+Evergreen Agent T-5
+Dyeing Agent - Red (Abandoned)
+Dyeing Agent - Yellow (Abandoned)
+Dyeing Agent - Blue (Abandoned)
+Dyeing Agent - Green (Abandoned)
+Charcoal
+Pine Lumber
+Beech Lumber
+Oak Lumber
+Birch Lumber
+Walnut Lumber
+White Oak Lumber
+Red Dye
+Orange Dye
+Yellow Dye
+Green Dye
+Cyan Dye
+Blue Dye
+Purple Dye
+Refined Yarn
+Refined Cotton
+Refined Canvas
+Refined Flannel
+Refined Soft Leather
+Refined Hard Leather
+Hand-Spun Yarn
+Hand-Spun Cotton
+Hand-Spun Canvas
+Hand-Spun Flannel
+Hand-Spun Blended Fabric
+Smooth Soft Leather
+Smooth Hard Leather
+Worsted Yarn
+Worsted Cotton Fabric
+Worsted Canvas
+Worsted Flannel
+Tough Soft Leather
+Tough Hard Leather
+Luxury Mulberry Silk
+Luxury Cotton Fabric
+Luxury Canvas
+Luxury Flannel
+Premier Soft Leather
+Premier Hard Leather
+Honey
+Salt
+Flour
+Nine-Flavor Spice
+Butter
+Pure Water
+Fresh Milk
+Overcooked Bone Meal
+Botanic Growth Powder
+Refined Bone Meal
+Refined Botanic Powder
+Essence Bone Meal
+Enriching Botanic Growth Powder
+Garden Fertilizer T1
+Garden Fertilizer T2
+Garden Fertilizer T3
+Garden Fertilizer T4
+Garden Fertilizer T5
+Sweet Berry
+Snowflake Parsley
+Pink Musk
+Whispering Orchid
+Asteria Cotton
+Granny Pine
+Meadow Mushroom
+Raw Meat
+Raw Large Meat
+Raw Shiny Meat
+Scallop
+Helmflower
+Firefly
+Eagle Feather
+Shrimpcap Claw
+Caprahorn's Horn
+Andra Enigmite
+Bzzar Wing
+Boarrier Tusk
+Potion Base
+World Collectible
+Glowshroom
+Umu Fruit
+Azure Fruit
+Raw Fish Meat
+Large Fish Meat
+Shiny Fish Meat
+Tender Plant Stems
+Knotted Plant Stems
+Robust Plant Stems
+Buds
+Stress-Resistant Buds
+Flax
+Cotton
+Silkworm Cocoons
+Hay
+Natural Pigment - Red
+Natural Pigment - Legendary
+Natural Pigment - Yellow
+Natural Pigment - Green
+Natural Pigment - Cyan
+Natural Pigment - Blue
+Natural Pigment - Epic
+Derived Pigment - Cyan
+Derived Pigment - Legendary
+Derived Pigment - Epic
+Wheat
+Resin
+Tree Resin
+Twig
+Pliable Twig
+Tartberry Juice
+Base Soil
+Emerald Apple
+Tokiwa Grass
+Engram Dust Crystals
+Seedlings
+Derived Pigment - Red
+Derived Pigment - Blue
+Derived Pigment - Green
+Derived Pigment - Yellow
+Coarse Animal Fiber
+Soft Beast Fur
+Luxury Animal Fiber
+Coarse-grained Animal Hides
+Durable Animal Hides
+Luxury Animal Hides
+Horn
+Coarse Horn
+Hard Horn
+Beehive
+Pine Timber
+Beech Timber
+Oak Timber
+Birch Timber
+Walnut Timber
+White Oak Timber
+Rock Salt
+Alum
+Raw Ore of Enigmite
+Raw Ore of Quartz
+Raw Ore of Sapphire
+Raw Ore of Ruby
+Raw Ore of Topaz
+Raw Ore of Emerald
+Raw Ore of Red Agate
+Raw Ore of Sunstone
+Raw Ore of Titanite
+Raw Ore of Peridot
+Raw Ore of Celestine
+Raw Ore of Spodumene
+Raw Ore of Black Tourmaline
+Raw Ore of Kilaueite
+Raw Ore of Orange Spinel
+Raw Ore of Topaz
+Raw Ore of Cyan Bellstone
+Raw Ore of Starburst Spar
+Raw Ore of Aurora Stone
+Raw Ore of Black Coral
+Raw Ore of Limestone
+Raw Ore of Shale
+Raw Ore of Granite
+Raw Ore of Feldspar
+Raw Ore of Mica
+Clay
+Fine Sand
+Limpid Azure Water
+Fine Metal Sand
+Coal
+Iron Ore
+Cobalt-Iron Ore
+Copper Ore
+Lustrous Copper Ore
+Tin Ore
+Zinc Ore
+Mithril Ore
+Shimmergold Ore
+Asterscad
+Continental Puffer
+Rockpea
+Azure Damsel
+Astermackere
+Regnus Bighead
+Stellar Squirrelfish
+Lantern Puffer
+Flaming Grouper
+Snowy Bighead
+Hanikon Bighead
+Thunder Flying Eel
+Parrotfish
+Food Fish
+Whale
+Starfish
+Jellyfish
+Coral
+Glass Bottle
+Jar
+Floatie
+Night Lamp
+Legacy Part #1
+Legacy Part #2
+Legacy Part #3
+Legacy Part #4
+Artisan Tools
+Billboard #1
+Aluminum Billboard
+Abandoned Billboard
+Abandoned Signboard
+Wooden Billboard
+Aluminum Signboard
+Wooden Chest
+Hero's Herb Postcard
+Towering Ruin Postcard
+Statue of the Hero Postcard
+Andra Resting Post Postcard
+Andra Landing Battlefield Postcard
+Andra Underground Mines Postcard
+Minsterhorn Postcard
+Entrance to the Kanamia Tribe Postcard
+Elders' Council Hall Postcard
+Ruins of Andra City Postcard
+Dark Mist Fortress Postcard
+Void Residue
+Void Aura
+Void Prism
+Blessing (Shadow Hunter)
+Blessing (Shadow Hunter)
+Blessing (Shadow Hunter)
+Blessing (Shadow Hunter)
+Epic Gear
+Rare Gear
+Lv.40 Epic Gear
+Lv.40 Epic Weapon
+Lv.40 Epic Helmet
+Lv.40 Epic Armor
+Lv.40 Epic Gauntlets
+Lv.40 Epic Shoes
+Lv.40 Epic Earrings
+Lv.40 Epic Necklace
+Lv.40 Epic Ring
+Lv.40 Epic Bracelet (L)
+Lv.40 Epic Bracelet (R)
+Lv.40 Epic Charm
+Lv.60 Epic Gear
+Lv.60 Epic Weapon
+Lv.60 Epic Helmet
+Lv.60 Epic Armor
+Lv.60 Epic Gauntlets
+Lv.60 Epic Shoes
+Lv.60 Epic Earrings
+Lv.60 Epic Necklace
+Lv.60 Epic Ring
+Lv.60 Epic Bracelet (L)
+Lv.60 Epic Bracelet (R)
+Lv.60 Epic Charm
+Lv.80 Epic Gear
+Lv.80 Epic Weapon
+Lv.80 Epic Helmet
+Lv.80 Epic Armor
+Lv.80 Epic Gauntlets
+Lv.80 Epic Shoes
+Lv.80 Epic Earrings
+Lv.80 Epic Necklace
+Lv.80 Epic Ring
+Lv.80 Epic Bracelet (L)
+Lv.80 Epic Bracelet (R)
+Lv.80 Epic Charm
+Lv.20 Rare Gear - Standard
+Lv.20 Rare Gear - Advanced
+Lv.20 Rare Gear - Superior
+Lv.20 Rare Gear - Sub-80 Quality
+Lv.20 Rare Gear - Sub-100 Quality
+Broken Asteria Chip
+Asteria Chip
+Brilliant Asteria Chip
+Crafting Materials
+Lv.60 Legendary Gear
+Lv.60 Legendary Weapon
+Lv.60 Legendary Helmet
+Lv.60 Legendary Armor
+Lv.60 Legendary Gauntlets
+Lv.60 Legendary Shoes
+Lv.60 Legendary Earrings
+Lv.60 Legendary Necklace
+Lv.60 Legendary Ring
+Lv.60 Legendary Bracelet (L)
+Lv.60 Legendary Bracelet (R)
+Lv.60 Legendary Charm
+Lv.80 Legendary Gear
+Lv.80 Legendary Weapon
+Lv.80 Legendary Helmet
+Lv.80 Legendary Armor
+Lv.80 Legendary Gauntlets
+Lv.80 Legendary Shoes
+Lv.80 Legendary Earrings
+Lv.80 Legendary Necklace
+Lv.80 Legendary Ring
+Lv.80 Legendary Bracelet (L)
+Lv.80 Legendary Bracelet (R)
+Lv.80 Legendary Charm
+Boss Kit - Storm Goblin King
+Boss Kit - Frost Ogre
+Boss Kit - Tempest Ogre
+Boss Kit - Inferno Ogre
+Boss Kit - Muku King
+Boss Kit - Golden Juggernaut
+Boss Kit - The Bear
+Boss Kit - Muku Chief
+Boss Kit - Phantom Arachnocrab
+Boss Kit - Venobzzar Incubator
+Boss Kit - Iron Fang
+Boss Kit - Celestial Flier
+Boss Kit - Lizardman King
+Boss Kit - Goblin King
+Lv.40 Legendary Gear
+Lv.40 Legendary Weapon
+Lv.40 Legendary Helmet
+Lv.40 Legendary Armor
+Lv.40 Legendary Gauntlets
+Lv.40 Legendary Shoes
+Lv.40 Legendary Earrings
+Lv.40 Legendary Necklace
+Lv.40 Legendary Ring
+Lv.40 Legendary Bracelet (L)
+Lv.40 Legendary Bracelet (R)
+Lv.40 Legendary Charm
+Bane Lord Weapon Appearance
+Gear
+Weapon
+Helmet
+Armor
+Gauntlets
+Boots
+Earrings
+Necklace
+Ring
+Bracelet (L)
+Bracelet (R)
+Charm
+Lv.40 Legendary Gear
+Lv.60 Legendary Gear
+Lv.80 Legendary Gear
+Lv.40 Gear
+Team Rewards
+Team Rewards
+Team Rewards
+Novice Scythe Blade
+Novice Frost Staff
+Flame of Atonement
+Novice Lance
+Novice Glory Ring
+Thunder Strike
+Novice Edge
+Dark Spirit's Prayer
+Novice Longbow
+Novice Aegis
+Novice Electric Guitar
+Special small-scale weapon test
+Special large-scale weapon test
+Refined Scythe Blade
+Refined Frost Staff
+Refined Lance
+Refined Glory Ring
+Refined Edge
+Refined Longbow
+Refined Aegis
+Refined Electric Guitar (Magic)
+Stormblade Tachi - Novice
+Everfrost Staff - Apprentice
+Zephyr Lance - Assault
+Revival Ring - Healer
+Shattering Sword
+Luminous Longbow - Scout
+Divine Shield - Protector
+Stormblade Tachi
+Stormblade Tachi
+Stormblade Tachi
+Stormblade Tachi
+Everfrost Staff
+Everfrost Staff
+Everfrost Staff
+Everfrost Staff
+Zephyr Lance
+Zephyr Lance
+Zephyr Lance
+Zephyr Lance
+Revival Ring
+Revival Ring
+Revival Ring
+Revival Ring
+Shatterblade - Bold
+Shatterblade
+Shatterblade - Bold
+Shatterblade
+Luminous Longbow - Hunter
+Luminar Longbow
+Luminous Longbow - Hunter
+Luminar Longbow
+Shield of Holy Light
+Shield of Holy Light
+Shield of Holy Light
+Shield of Holy Light
+Stormblade Tachi - Novice
+Everfrost Staff - Apprentice
+Zephyr Lance - Assault
+Revival Ring - Healer
+Shattering Sword
+Luminous Longbow
+Divine Shield - Protector
+Stormblade Tachi - Novice
+Everfrost Staff - Apprentice
+Zephyr Lance - Assault
+Revival Ring - Healer
+Shattering Sword
+Luminous Longbow - Scout
+Divine Shield - Protector
+Blazing Strings - Chant
+Blazing Strings - Battle Ode
+Blazing Strings - Battle Ode
+Blazing Strings - Tribute
+Blazing Strings - Tribute
+Blazing Strings - Chant
+Blazing Strings - Chant
+Stormblade Tachi - Novice
+Everfrost Staff - Apprentice
+Zephyr Lance - Assault
+Revival Ring - Healer
+Shattering Sword - Sentinel
+Luminous Longbow - Scout
+Divine Shield - Protector
+Blazing Strings - Chant
+Glory Blade - Edge
+Glory Blade - Avidya
+Glory Blade - Chaos
+Glory Blade - Avidya
+Glory Blade - Chaos
+Glory Staff - Incantation
+Glory Staff - Frost
+Glory Staff - Glacial
+Glory Staff - Frost
+Glory Staff - Glacial
+Tethered Lance - Vanguard
+Glory Lance - Verdant
+Glory Lance - Tempest Flow
+Glory Lance - Verdant
+Glory Lance - Tempest Flow
+Glory Ring - Warden
+Glory Ring - Harmony
+Glory Ring - Wish
+Glory Ring - Harmony
+Glory Ring - Wish
+Glory Edge - Conquest
+Glory Edge
+Glory Edge - Tenacity
+Glory Edge
+Glory Edge - Tenacity
+Glory Bow - Ranger
+Sunburst Longbow - Forest
+Glory Bow - Precise
+Sunburst Longbow - Forest
+Glory Bow - Precise
+Glory Aeg- Order
+Glory Aeg- Radiant
+Glory Aeg- Daybreak
+Glory Aeg- Radiant
+Glory Aeg- Daybreak
+Glory Blade - Edge
+Glory Staff - Incantation
+Glory Lance - Vanguard
+Glory Ring - Warden
+Glory Edge - Conquest
+Glory Bow - Ranger
+Glory Aeg- Order
+Glory Blade - Edge
+Glory Staff - Incantation
+Tethered Lance - Vanguard
+Glory Ring - Warden
+Glory Edge - Conquest
+Glory Bow - Ranger
+Glory Aeg- Order
+Thermal Arm - Harmo
+Thermal Arm - Breaker
+Thermal Arm - Breaker
+Thermal Arm - Carol
+Thermal Arm - Carol
+Thermal Arm - Harmo
+Thermal Arm - Harmo
+Glory Blade - Edge
+Glory Staff - Incantation
+Tethered Lance - Vanguard
+Glory Ring - Warden
+Glory Edge - Conquest
+Sunburst Longbow - Ranger
+Glory Aeg- Order
+Thermal Arm - Harmo
+Thunder Blade - Anatta
+Thunder Blade - Illuminate
+Thunder Blade - Mirage
+Thunder Blade - Illuminate
+Thunder Blade - Mirage
+Eclipse Staff - Magitech
+Eclipse Staff - Iceflow
+Eclipse Staff - Frostblade
+Eclipse Staff - Iceflow
+Eclipse Staff - Frostblade
+Eclipse Lance - Lionheart
+Eclipse Lance - Storm
+Eclipse Lance - Strider
+Eclipse Lance - Storm
+Eclipse Lance - Strider
+Eclipse Ring - Oracle
+Eclipse Ring - Soul
+Eclipse Ring - Gospel
+Eclipse Ring - Soul
+Eclipse Ring - Gospel
+Mountain Cleaver - Command
+Mountain Cleaver - Justiciar
+Mountain Cleaver - Undying
+Mountain Cleaver - Justiciar
+Mountain Cleaver - Undying
+Jade Longbow - Breaker
+Jade Longbow - Beastlord
+Jade Longbow - Hawkeye
+Jade Longbow - Beastlord
+Jade Longbow - Hawkeye
+Sacred Legacy - Judgment
+Sacred Legacy - Oath
+Sacred Legacy - Reveal
+Sacred Legacy - Oath
+Sacred Legacy - Reveal
+Thunder Blade - Anatta
+Eclipse Staff - Magitech
+Eclipse Lance - Lionheart
+Eclipse Ring - Oracle
+Mountain Cleaver - Command
+Jade Longbow - Breaker
+Sacred Legacy - Judgment
+Thunder Blade - Anatta
+Eclipse Staff - Magitech
+Eclipse Lance - Lionheart
+Eclipse Ring - Oracle
+Mountain Cleaver - Command
+Jade Longbow - Breaker
+Sacred Legacy - Judgment
+Celestial Pyre - Severe
+Celestial Pyre - Silent
+Celestial Pyre - Silent
+Celestial Pyre - Chant
+Celestial Pyre - Chant
+Celestial Pyre - Severe
+Celestial Pyre - Severe
+Thunder Blade - Anatta
+Eclipse Staff - Magitech
+Eclipse Lance - Lionheart
+Eclipse Ring - Oracle
+Mountain Cleaver - Command
+Jade Longbow - Breaker
+Sacred Legacy - Judgment
+Celestial Pyre - Severe
+Stormfire Cleaver
+Permafrost Crystal Staff
+Gale-Impaling Spear
+Flourishing Nature
+Blade of Endless Fury
+Sunflare Eternal Bow
+Radiant Bastion
+Inferno Shockwave
+Thunder Blade
+Abyssal Frost Staff
+Azure Skyfire Lance
+Luminous World Ring
+Rock Spinebreaker
+Jade Treasure Bow
+Blazing Light Guardian
+Celestial Pyre
+Shadow of the Far Sea
+Revelation of the Far Sea
+Wish of the Far Sea
+Grace of the Far Sea
+Waiting of the Far Sea
+Gaze of the Far Sea
+Vow of the Far Sea
+Hymn of the Far Sea
+Novice Feltcap
+Novice Feltcap
+Novice Feltcap
+Steel Warhelm
+Abyssal Facehelm
+Jungle Feltcap
+Wane Warhelm
+Wane Visor
+Wane Feltcap
+Lethal Helmet
+Lethal Helmet
+Dominion Helmet
+Dominion Helmet - Bold
+Dominion Helmet
+Lucky Helmet
+Agile Helmet
+Lucky Helmet - Bold
+Lethal Facehelm
+Dominion Facehelm
+Dominion Feltcap
+Dominion Feltcap
+Agile Feltcap
+Lucky Feltcap
+Wane Warhelm
+Wane Visor
+Wane Feltcap
+Wane Warhelm
+Wane Visor
+Wane Feltcap
+Agile Feltcap - Battle Ode
+Lucky Felt Hat - Battle Ode
+Wane Warhelm
+Wane Visor
+Wane Feltcap
+Wane Warhelm
+Lethal War Helm
+Lethal War Helm
+Dominion Helm
+Dominion Helm
+Dominion Helm
+Lucky War Helm
+Agile War Helm
+Lucky War Helm
+Wane Facehelm
+Lethal Cap - Avidya
+Dominion Cap - Avidya
+Wane Hood
+Dominion Hood
+Dominion Hood - Harmony
+Agile Hood
+Lucky Hood
+Wane Warhelm
+Wane Facehelm
+Wane Hood
+Wane Warhelm
+Wane Facehelm
+Wane Hood
+Agile Hood - Breaker
+Lucky Hood - Breaker
+[Rune] Conquest Warhelm
+[Rune] Breaker Facehelm
+[Rune] Oracle Hood
+Wane Warhelm
+Wane Facehelm
+Wane Hood
+Wane Facehelm
+Lethal Facehelm - Oath
+Lethal Facehelm - Strider
+Dominion Facehelm
+Dominion Facehelm - Justiciar
+Dominion Facehelm - Oath
+Lucky Facehelm - Strider
+Agile Facehelm
+Lucky Facehelm - Justiciar
+Wane Facehelm
+Lethal Facehelm - Illuminate
+Dominion Facehelm - Illuminate
+Wane Circlet
+Dominion Circlet
+Dominion Circlet - Soul
+Agile Circlet
+Lucky Circlet - Soul
+Wane Facehelm
+Wane Facehelm
+Wane Circlet
+Wane Facehelm
+Wane Facehelm
+Wane Circlet
+Agile Circlet - Silent
+Lucky Circlet - Silent
+[Void] Undying Facehelm
+[Void] Shadowstep Open Helm
+[Void] Transcendent Circlet
+Wane Facehelm
+Wane Openhelm
+Wane Circlet
+Novice Tunic
+Novice Tunic
+Novice Tunic
+Steel Chainmail
+Abyssal Combatwear
+Jungle Garb
+Wane Chainmail
+Wane Combatwear
+Wane Skirmishwear
+Lethal Chainmail
+Dominion Chainmail
+Dominion Chainmail
+Dominion Chainmail
+Peerless Chainmail
+Agile Chainmail
+Lethal Combatwear
+Agile Combatwear
+Agile Combatwear
+Lucky Combatwear
+Dominion Guerilla Outfit
+Dominion Guerilla Outfit
+Agile Guerilla Outfit
+Lucky Guerilla Outfit
+Wane Chainmail
+Wane Combatwear
+Wane Skirmishwear
+Wane Chainmail
+Wane Combatwear
+Wane Skirmishwear
+Lucky Guerilla Outfit - Battle Ode
+Agile Guerilla Outfit - Battle Ode
+Lethal Guerrilla Outfit - Tribute
+Agile Guerilla Outfit - Tribute
+Wane Chainmail
+Wane Combatwear
+Wane Skirmishwear
+Wane Plate
+Lethal Plate Armor
+Dominion Plate Armor - Tenacity
+Dominion Plate Armor
+Dominion Plate Armor
+Peerless Plate Armor - Tenacity
+Agile Plate Armor
+Wane Cuirass
+Lethal Breastplate - Precise
+Agile Breastplate - Chaos
+Agile Breastplate - Precise
+Lucky Breastplate - Chaos
+Wane Robe
+Dominion Robe
+Dominion Robe - Harmony
+Agile Robe
+Lucky Robe - Harmony
+Wane Plate
+Wane Cuirass
+Wane Robe
+Wane Plate
+Wane Cuirass
+Wane Robe
+Lucky Robe - Breaker
+Agile Robe - Breaker
+Lethal Robe - Carol
+Agile Robe - Carol
+[Rune] Conquest Plate
+[Rune] Breaker Cuirass
+[Rune] Oracle Robe
+Wane Plate
+Wane Cuirass
+Wane Robe
+Wane Greatplate
+Lethal Greatplate - Oath
+Dominion Greatplate - Undying
+Dominion Greatplate
+Dominion Greatplate - Oath
+Peerless Greatplate - Undying
+Agile Greatplate
+Wane Warplate
+Lethal Armor - Hawkeye
+Agile Armor - Mirage
+Agile Armor - Hawkeye
+Lucky Armor - Mirage
+Wane Haori
+Dominion Haori
+Dominion Haori - Soul
+Agile Haori
+Lucky Haori - Soul
+Wane Greatplate
+Wane Warplate
+Wane Haori
+Wane Greatplate
+Wane Warplate
+Wane Haori
+Lucky Haori - Silent
+Agile Haori - Silent
+Lethal Haori - Chant
+Agile Haori - Chant
+[Void] Undying Greatplate
+[Void] Shadowstep Warplate
+[Void] Transcendent Haori
+Wane Greatplate
+Wane Warplate
+Wane Haori
+Novice Gauntlets
+Novice Gauntlets
+Novice Gauntlets
+Steel Gauntlets
+Abyssal Bracelets
+Jungle Gloves
+Wane Gauntlets
+Wane Bracers
+Wane Gloves
+Lethal Gauntlets
+Lethal Chainmail
+Dominion Gauntlets
+Dominion Gauntlets - Bold
+Dominion Gauntlets
+Lucky Gauntlets
+Peerless Gauntlets
+Lucky Gauntlets - Bold
+Dominion Bracers - Hunter
+Agile Bracers
+Agile Bracers - Hunter
+Lucky Bracers
+Lethal Gloves
+Dominion Gloves
+Dominion Gloves
+Lucky Gloves
+Agile Gloves
+Lucky Gloves
+Wane Gauntlets
+Wane Bracers
+Wane Gloves
+Wane Gauntlets
+Wane Bracers
+Wane Gloves
+Agile Gloves - Battle Ode
+Lucky Gloves - Battle Ode
+Agile Gloves - Tribute
+Lethal Gloves - Tribute
+Wane Gauntlets
+Wane Bracers
+Wane Gloves
+Wane Armguards
+Lethal Armguards
+Lethal Armguards
+Dominion Armguards - Tenacity
+Dominion Armguards
+Dominion Armguards
+Lucky Armguards
+Peerless Armguards - Tenacity
+Lucky Armguards
+Wane Gauntlets
+Dominion Gauntlets - Forest
+Agile Gauntlets - Chaos
+Agile Gauntlets - Forest
+Lucky Gauntlets - Chaos
+Wane Wraps
+Lethal Handwraps - Glacial
+Dominion Handwraps
+Dominion Handwraps - Harmony
+Lucky Handwraps - Glacial
+Agile Handwraps
+Lucky Handwraps - Harmony
+Wane Armguards
+Wane Gauntlets
+Wane Wraps
+Wane Armguards
+Wane Gauntlets
+Wane Wraps
+Agile Handwraps - Breaker
+Lucky Handwraps - Breaker
+Agile Handwraps - Carol
+Lethal Handwraps - Carol
+[Rune] Conquest Armguards
+[Rune] Breaker Gauntlets
+[Rune] Oracle Handwraps
+Wane Armguards
+Wane Gauntlets
+Wane Wraps
+Wane Armguards
+Lethal Armguards - Oath
+Lethal Armguards - Strider
+Dominion Armguards - Undying
+Dominion Armguards - Justiciar
+Dominion Armguards - Oath
+Lucky Armguards - Strider
+Peerless Armguards - Undying
+Lucky Armguards - Justiciar
+Wane Armplates
+Dominion Armplates - Beastlord
+Agile Armplates - Mirage
+Agile Armplates - Beastlord
+Lucky Armplates - Mirage
+Wane Armbands
+Lethal Armbands - Frostblade
+Dominion Armbands
+Dominion Armbands - Soul
+Lucky Armbands - Frostblade
+Agile Armbands
+Lucky Armbands - Soul
+Wane Armguards
+Wane Armplates
+Wane Armbands
+Wane Armguards
+Wane Armplates
+Wane Armbands
+Agile Armbands - Silent
+Lucky Armbands - Silent
+Agile Armbands - Chant
+Lethal Armbands - Chant
+[Void] Undying Vambraces
+[Void] Shadowstep Armplates
+[Void] Transcendent Armbands
+Wane Armguards
+Wane Armplates
+Wane Armbands
+Novice Boots
+Novice Boots
+Novice Boots
+Steel Spiked Boots
+Abyssal Long Boots
+Jungle Loafers
+Wane Warboots
+Wane Warleggings
+Wane Loafers
+Lethal Spiked Boots
+Lucky Spiked Boots
+Dominion Long Boots - Hunter
+Agile Long Boots
+Agile Long Boots - Hunter
+Lucky Long Boots
+Dominion Loafers
+Agile Loafers
+Wane Warboots
+Wane Warleggings
+Wane Loafers
+Wane Warboots
+Wane Warleggings
+Wane Loafers
+Agile Loafers - Tribute
+Lethal Loafers - Tribute
+Wane Warboots
+Wane Warleggings
+Wane Loafers
+Wane Sabatons
+Lethal Plate Boots
+Lucky Plate Boots
+Wane Greaves
+Dominion Greaves - Forest
+Agile Greaves - Chaos
+Agile Greaves - Forest
+Lucky Greaves - Chaos
+Wane Legguards
+Dominion Tall Boots
+Agile Tall Boots
+Wane Sabatons
+Wane Greaves
+Wane Legguards
+Wane Sabatons
+Wane Greaves
+Wane Legguards
+Agile Tall Boots - Carol
+Lethal Tall Boots - Carol
+[Rune] Conquest Sabatons
+[Rune] Breaker Greaves
+[Rune] Oracle Legguards
+Wane Sabatons
+Wane Greaves
+Wane Legguards
+Wane Legplates
+Lethal Leg Armor - Strider
+Lucky Leg Armor - Strider
+Wane Battleboots
+Dominion Boots - Beastlord
+Agile War Boots - Mirage
+Agile War Boots - Beastlord
+Lucky War Boots - Mirage
+Wane Boots
+Dominion Boots
+Agile Boots
+Wane Legplates
+Wane Battleboots
+Wane Boots
+Wane Legplates
+Wane Battleboots
+Wane Boots
+Agile Boots - Chant
+Lethal Boots - Chant
+[Void] Undying Leg Armor
+[Void] Shadowstep Battleboots
+[Void] Transcendent Boots
+Wane Legplates
+Wane Battleboots
+Wane Boots
+Novice Earrings
+Novice Earrings
+Novice Earrings
+Rose Crimson Earrings
+Olive Emerald Earrings
+Moonlit Zircon Earrings
+Wane Crimson Earrings
+Wane Emerald Earrings
+Wane Zircon Earrings
+Lethal Crimson Earrings
+Lucky Crimson Earrings
+Lethal Emerald Earrings
+Dominion Emerald Earrings
+Lethal Zircon Earrings
+Dominion Zircon Earrings
+Dominion Zircon Earrings
+Dominion Zircon Earrings
+Lucky Zircon Earrings
+Agile Zircon Earrings
+Agile Zircon Earrings
+Lucky Zircon Earrings
+Wane Crimson Earrings
+Wane Crimson Earrings
+Wane Crimson Earrings
+Wane Emerald Earrings
+Wane Emerald Earrings
+Wane Zircon Earrings
+Wane Zircon Earrings
+Wane Crimson Earrings
+Wane Emerald Earrings
+Wane Zircon Earrings
+Agile Zircon Earrings - Battle Ode
+Lucky Zircon Earrings - Battle Ode
+Agile Zircon Earrings - Tribute
+Lethal Zircon Earrings - Tribute
+Wane Zircon Earrings
+Wane Crimson Earrings
+Wane Emerald Earrings
+Wane Zircon Earrings
+Wane Ruby Earrings
+Lethal Ruby Earrings
+Lucky Ruby Earrings
+Wane Jade Earrings
+Lethal Jade Earrings - Avidya
+Dominion Jade Earrings - Avidya
+Wane Diamond Earrings
+Lethal Diamond Earrings - Glacial
+Dominion Diamond Earrings - Frost
+Dominion Diamond Earrings - Wish
+Dominion Diamond Earrings - Harmony
+Lucky Diamond Earrings - Glacial
+Agile Diamond Earrings - Frost
+Agile Diamond Earrings - Wish
+Lucky Diamond Earrings - Harmony
+Wane Ruby Earrings - Vanguard
+Wane Ruby Earrings - Conquest
+Wane Ruby Earrings - Order
+Wane Jade Earrings - Edge
+Wane Jade Earrings - Ranger
+Wane Diamond Earrings - Incantation
+Wane Diamond Earrings - Warden
+Wane Ruby Earrings
+Wane Jade Earrings
+Wane Diamond Earrings
+Agile Diamond Earrings - Breaker
+Lucky Diamond Earrings - Breaker
+Agile Diamond Earrings - Carol
+Lethal Diamond Earrings - Carol
+Wane Diamond Earrings - Harmo
+Wane Ruby Earrings - Vanguard
+Wane Jade Earrings - Edge
+Wane Diamond Earrings - Incantation
+Wane Solar Earrings
+Lethal Solar Earrings - Strider
+Lucky Solar Earrings - Strider
+Wane Jasper Earrings
+Lethal Jasper Earrings - Illuminate
+Dominion Jasper Earrings - Illuminate
+Wane Star Earrings
+Lethal Star Earrings - Frostblade
+Dominion Star Earrings - Iceflow
+Dominion Star Earrings - Gospel
+Dominion Star Earrings - Soul
+Lucky Star Earrings - Frostblade
+Agile Star Earrings - Iceflow
+Agile Star Earrings - Gospel
+Lucky Star Earrings - Soul
+Wane Solar Earrings - Lionheart
+Wane Solar Earrings - Command
+Wane Solar Earrings - Judgment
+Wane Jasper Earrings - Anatta
+Wane Jasper Earrings - Breaker
+Wane Star Earrings - Magitech
+Wane Star Earrings - Oracle
+Wane Solar Earrings
+Wane Jasper Earrings
+Wane Star Earrings
+Agile Star Earrings - Silent
+Lucky Star Earrings - Silent
+Agile Star Earrings - Chant
+Lethal Star Earrings - Chant
+Wane Star Earrings - Severe
+Wane Solar Earrings - Lionheart
+Wane Jasper Earrings - Anatta
+Wane Star Earrings - Magitech
+Novice Necklace
+Novice Necklace
+Novice Necklace
+Rose Crimson Necklace
+Olive Emerald Necklace
+Moonlit Zircon Necklace
+Wane Crimson Necklace
+Wane Emerald Necklace
+Wane Zircon Necklace
+Lethal Crimson Necklace
+Lethal Crimson Necklace
+Dominion Crimson Necklace
+Dominion Crimson Necklace - Bold
+Dominion Crimson Necklace
+Lucky Crimson Necklace
+Crimson Peerless Necklace
+Lucky Crimson Necklace - Bold
+Lethal Emerald Necklace
+Agile Emerald Necklace
+Agile Emerald Necklace
+Lucky Emerald Necklace
+Dominion Zircon Necklace
+Agile Zircon Necklace
+Dominion Zircon Necklace
+Agile Zircon Necklace
+Wane Crimson Necklace
+Wane Crimson Necklace
+Wane Crimson Necklace
+Wane Emerald Necklace
+Wane Emerald Necklace
+Wane Zircon Necklace
+Wane Zircon Necklace
+Wane Crimson Necklace
+Wane Emerald Necklace
+Wane Zircon Necklace
+Agile Zircon Necklace - Tribute
+Lethal Zircon Necklace - Tribute
+Wane Zircon Necklace - Chant
+Wane Crimson Necklace
+Wane Emerald Necklace
+Wane Zircon Necklace
+Wane Ruby Necklace
+Lethal Ruby Necklace
+Lethal Ruby Necklace
+Dominion Ruby Necklace - Tenacity
+Dominion Ruby Necklace
+Dominion Ruby Necklace
+Lucky Ruby Necklace
+Ruby Peerless Necklace - Tenacity
+Lucky Ruby Necklace
+Wane Jade Necklace
+Lethal Jade Necklace - Precise
+Agile Jade Necklace - Chaos
+Agile Jade Necklace - Precise
+Lucky Jade Necklace - Chaos
+Wane Diamond Necklace
+Dominion Diamond Necklace - Frost
+Agile Diamond Necklace - Frost
+Dominion Diamond Necklace - Wish
+Agile Diamond Necklace - Wish
+Wane Ruby Necklace - Vanguard
+Wane Ruby Necklace - Conquest
+Wane Ruby Necklace - Order
+Wane Jade Necklace - Edge
+Wane Jade Necklace - Ranger
+Wane Diamond Necklace - Incantation
+Wane Diamond Necklace - Warden
+Wane Ruby Necklace
+Wane Jade Necklace
+Wane Diamond Necklace
+Agile Diamond Necklace - Carol
+Lethal Diamond Necklace - Carol
+Wane Diamond Necklace - Harmo
+Wane Ruby Necklace - Vanguard
+Wane Jade Necklace - Edge
+Wane Diamond Necklace - Incantation
+Wane Solar Necklace
+Lethal Solar Necklace - Oath
+Lethal Solar Necklace - Strider
+Dominion Solar Necklace - Undying
+Dominion Solar Necklace - Justiciar
+Dominion Solar Necklace - Oath
+Lucky Solar Necklace - Strider
+Solar Peerless Necklace - Undying
+Lucky Solar Necklace - Justiciar
+Wane Jasper Necklace
+Lethal Jasper Necklace - Hawkeye
+Agile Jasper Necklace - Mirage
+Agile Jasper Necklace - Hawkeye
+Lucky Jasper Necklace - Mirage
+Wane Star Necklace
+Dominion Star Necklace - Iceflow
+Agile Star Necklace - Iceflow
+Dominion Star Necklace - Gospel
+Agile Star Necklace - Gospel
+Wane Solar Necklace - Lionheart
+Wane Solar Necklace - Command
+Wane Solar Necklace - Judgment
+Wane Jasper Necklace - Anatta
+Wane Jasper Necklace - Breaker
+Wane Star Necklace - Magitech
+Wane Star Necklace - Oracle
+Wane Solar Necklace
+Wane Jasper Necklace
+Wane Star Necklace
+Agile Star Necklace - Chant
+Lethal Star Necklace - Chant
+Wane Star Necklace - Severe
+Wane Solar Necklace - Lionheart
+Wane Jasper Necklace - Anatta
+Wane Star Necklace - Magitech
+Novice Ring
+Novice Ring
+Novice Ring
+Rose Crimson Ring
+Olive Emerald Ring )
+Moonlit Zircon Ring
+Wane Crimson Ring
+Wane Emerald Ring
+Wane Zircon Ring
+Lethal Crimson Ring
+Dominion Crimson Ring
+Dominion Crimson Ring
+Dominion Crimson Ring
+Dominion Crimson Ring
+Crimson Peerless Ring
+Agile Crimson Ring
+Agile Crimson Ring
+Lethal Emerald Ring
+Lethal Emerald Ring
+Dominion Emerald Ring - Hunter
+Agile Emerald Ring
+Dominion Emerald Ring
+Agile Emerald Ring
+Agile Emerald Ring - Hunter
+Lucky Emerald Ring
+Lethal Zircon Ring
+Lucky Zircon Ring
+Wane Crimson Ring
+Wane Crimson Ring
+Wane Crimson Ring
+Wane Emerald Ring
+Wane Emerald Ring
+Wane Zircon Ring
+Wane Zircon Ring
+Wane Crimson Ring
+Wane Emerald Ring
+Wane Zircon Ring
+Agile Zircon Ring - Battle Ode
+Lucky Zircon Ring - Battle Ode
+Agile Zircon Ring - Tribute
+Lethal Zircon Ring - Tribute
+Wane Zircon Ring - Chant
+Wane Crimson Ring
+Wane Emerald Ring
+Wane Zircon Ring
+Wane Ruby Ring
+Lethal Ruby Ring
+Dominion Ruby Ring - Tenacity
+Dominion Ruby Ring
+Dominion Ruby Ring
+Dominion Ruby Ring
+Ruby Peerless Ring - Tenacity
+Agile Ruby Ring
+Agile Ruby Ring
+Wane Jade Ring
+Lethal Jade Ring - Avidya
+Lethal Jade Ring - Precise
+Dominion Jade Ring - Forest
+Agile Jade Ring - Chaos
+Dominion Jade Ring - Avidya
+Agile Jade Ring - Precise
+Agile Jade Ring - Forest
+Lucky Jade Ring - Chaos
+Wane Diamond Ring
+Lethal Diamond Ring - Glacial
+Lucky Diamond Ring - Glacial
+Wane Ruby Ring - Vanguard
+Wane Ruby Ring - Conquest
+Wane Ruby Ring - Order
+Wane Jade Ring - Edge
+Wane Jade Ring - Ranger
+Wane Diamond Ring - Incantation
+Wane Diamond Ring - Warden
+Wane Ruby Ring
+Wane Jade Ring
+Wane Diamond Ring
+Agile Diamond Ring - Breaker
+Lucky Diamond Ring - Breaker
+Agile Diamond Ring - Carol
+Lethal Diamond Ring - Carol
+Wane Diamond Ring - Harmo
+Wane Ruby Ring - Vanguard
+Wane Jade Ring - Edge
+Wane Diamond Ring - Incantation
+Wane Solar Ring
+Lethal Solar Ring - Oath
+Dominion Solar Ring - Undying
+Dominion Solar Ring - Storm
+Dominion Solar Ring - Reveal
+Dominion Solar Ring - Oath
+Solar Peerless Ring - Undying
+Agile Solar Ring - Storm
+Agile Solar Ring - Reveal
+Wane Jasper Ring
+Lethal Jasper Ring - Illuminate
+Lethal Jasper Ring - Hawkeye
+Dominion Jasper Ring - Beastlord
+Agile Jasper Ring - Mirage
+Dominion Jasper Ring - Illuminate
+Agile Jasper Ring - Hawkeye
+Agile Jasper Ring - Beastlord
+Lucky Jasper Ring - Mirage
+Wane Star Ring
+Lethal Star Ring - Frostblade
+Lucky Star Ring - Frostblade
+Wane Solar Ring - Lionheart
+Wane Solar Ring - Command
+Wane Solar Ring - Judgment
+Wane Jasper Ring - Anatta
+Wane Jasper Ring - Breaker
+Wane Star Ring - Magitech
+Wane Star Ring - Oracle
+Wane Solar Ring
+Wane Jasper Ring
+Wane Star Ring
+Agile Star Ring - Silent
+Lucky Star Ring - Silent
+Agile Star Ring - Chant
+Lethal Star Ring - Chant
+Wane Star Ring - Severe
+Wane Solar Ring - Lionheart
+Wane Jasper Ring - Anatta
+Wane Star Ring - Magitech
+Adventure Bracelet (L)
+Adventure Bracelet (L)
+Adventure Bracelet (L)
+Crimson Bracelet (L)
+Emerald Bracelet (L)
+Zircon Bracelet (L)
+Wane Crimson Bracelet (L)
+Wane Emerald Bracelet (L)
+Wane Zircon Bracelet (L)
+Dominion Crimson Bracelet (L) - Ward
+Dominion CrimsonBracelet (L)
+Dominion Crimson Bracelet (L) - Bold
+Crimson Peerless Bracelet (L) - Ward
+Agile CrimsonBracelet (L)
+Lucky Crimson Bracelet (L) - Bold
+Lethal Emerald Bracelet (L) - Oboro
+Lethal Emerald Bracelet (L) - Sentinel
+Dominion Emerald Bracelet (L) - Sentinel
+Agile Emerald Bracelet (L) - Feather
+Dominion Emerald Bracelet (L) - Oboro
+Agile Emerald Bracelet (L) - Sentinel
+Agile Emerald Bracelet (L) - Hunter
+Lucky Emerald Bracelet (L) - Feather
+Lethal Zircon Bracelet (L) - Crystal
+Dominion Zircon Bracelet (L) - Pure
+Lucky Zircon Bracelet (L) - Crystal
+Lucky Zircon Bracelet (L) - Pure
+Wane Crimson Bracelet (L)
+Wane Emerald Bracelet (L)
+Wane Zircon Bracelet (L)
+Wane Crimson Bracelet (L)
+Wane Emerald Bracelet (L)
+Wane Zircon Bracelet (L)
+Wane Crimson Bracelet (L)
+Wane Emerald Bracelet (L)
+Wane Zircon Bracelet (L)
+Wane Ruby Bracelet (L)
+Dominion Ruby Bracelet (L) - Tenacity
+Dominion Ruby Bracelet (L)
+Dominion Ruby Bracelet (L) - Valor
+Ruby Peerless Bracelet (L) - Tenacity
+Agile Ruby Bracelet (L)
+Lucky Ruby Bracelet (L) - Valor
+Wane Jade Bracelet (L)
+Lethal Jade Bracelet (L) - Avidya
+Lethal Jade Bracelet (L) - Precise
+Dominion Jade Bracelet (L) - Forest
+Agile Jade Bracelet (L) - Chaos
+Dominion Jade Bracelet (L) - Avidya
+Agile Jade Bracelet (L) - Precise
+Agile Jade Bracelet (L) - Forest
+Lucky Jade Bracelet (L) - Chaos
+Wane Diamond Bracelet (L)
+Lethal Diamond Bracelet (L) - Glacial
+Dominion Diamond Bracelet (L) - Harmony
+Lucky Diamond Bracelet (L) - Glacial
+Lucky Diamond Bracelet (L) - Harmony
+Wane Ruby Bracelet (L)
+Wane Jade Bracelet (L)
+Wane Diamond Bracelet (L)
+Wane Ruby Bracelet (L)
+Wane Jade Bracelet (L)
+Wane Diamond Bracelet (L)
+[Rune] Conquest Ruby Bracelet (L)
+[Rune] Breaker Jade Bracelet (L)
+[Rune] Oracle Diamond Bracelet (L)
+Wane Ruby Bracelet (L)
+Wane Jade Bracelet (L)
+Wane Diamond Bracelet (L)
+Wane Solar Bracelet (L)
+Dominion Solar Bracelet (L) - Undying
+Dominion Solar Bracelet (L)
+Dominion Solar Bracelet (L) - Justiciar
+Solar Peerless Bracelet (L) - Undying
+Agile Solar Bracelet (L)
+Lucky Solar Bracelet (L) - Justiciar
+Wane Jasper Bracelet (L)
+Lethal Jasper Bracelet (L) - Illuminate
+Lethal Jasper Bracelet (L) - Hawkeye
+Dominion Jasper Bracelet (L) - Beastlord
+Agile Jasper Bracelet (L) - Mirage
+Dominion Jasper Bracelet (L) - Illuminate
+Agile Jasper Bracelet (L) - Hawkeye
+Agile Jasper Bracelet (L) - Beastlord
+Lucky Jasper Bracelet (L) - Mirage
+Wane Star Bracelet (L)
+Lethal Star Bracelet (L) - Frostblade
+Dominion Star Bracelet (L) - Soul
+Lucky Star Bracelet (L) - Frostblade
+Lucky Star Bracelet (L) - Soul
+Wane Solar Bracelet (L)
+Wane Jasper Bracelet (L)
+Wane Star Bracelet (L)
+Wane Solar Bracelet (L)
+Wane Jasper Bracelet (L)
+Wane Star Bracelet (L)
+[Void] Undying Sunwarm Bracelet (L)
+[Void] Shadowstep Jasper Bracelet (L)
+[Void] Transcendent Starlight Bracelet (L)
+Wane Solar Bracelet (L)
+Wane Jasper Bracelet (L)
+Wane Star Bracelet (L)
+Adventure Bracelet (R)
+Adventure Bracelet (R)
+Adventure Bracelet (R)
+Crimson Bracelet (R)
+Emerald Bracelet (R)
+Zircon Bracelet (R)
+Wane Crimson Righttband
+Wane Emerald Bracelet (R)
+Wane Zircon Bracelet (R)
+Dominion Crimson Bracelet (R) - Ward
+Dominion Crimson Bracelet (R)
+Dominion Crimson Bracelet (R) - Bold
+Crimson Peerless Bracelet (R) - Ward
+Agile Crimson Bracelet (R)
+Lucky Crimson Bracelet (R) - Bold
+Lethal Emerald Bracelet (R) - Oboro
+Lethal Emerald Bracelet (R) - Sentinel
+Dominion Emerald Bracelet (R) - Hunter
+Dominion Emerald Bracelet (R) - Oboro
+Agile Emerald Bracelet (R) - Sentinel
+Agile Emerald Bracelet (R) - Hunter
+Lethal Zircon Bracelet (R) - Crystal
+Lucky Zircon Bracelet (R) - Crystal
+Wane Crimson Righttband
+Wane Emerald Bracelet (R)
+Wane Zircon Bracelet (R)
+Wane Crimson Righttband
+Wane Emerald Bracelet (R)
+Wane Zircon Bracelet (R)
+Agile Zircon Bracelet (R) - Battle Ode
+Lucky Zircon Bracelet (R) - Battle Ode
+Agile Zircon Bracelet (R) - Tribute
+Lethal Zircon Bracelet (R) - Tribute
+Wane Crimson Bracelet (R)
+Wane Emerald Bracelet (R)
+Wane Zircon Bracelet (R)
+Wane Ruby Bracelet (R)
+Dominion Ruby Bracelet (R) - Tenacity
+Dominion Ruby Bracelet (R)
+Dominion Ruby Bracelet (R) - Valor
+Ruby Peerless Bracelet (R) - Tenacity
+Agile Ruby Bracelet (R)
+Lucky Ruby Bracelet (R) - Valor
+Wane Jade Bracelet (R)
+Lethal Jade Bracelet (R) - Avidya
+Lethal Jade Bracelet (R) - Precise
+Dominion Jade Bracelet (R) - Forest
+Dominion Jade Bracelet (R) - Avidya
+Agile Jade Bracelet (R) - Precise
+Agile Jade Bracelet (R) - Forest
+Wane Diamond Bracelet (R)
+Lethal Diamond Bracelet (R) - Glacial
+Lucky Diamond Bracelet (R) - Glacial
+Wane Ruby Bracelet (R)
+Wane Jade Bracelet (R)
+Wane Diamond Bracelet (R)
+Wane Ruby Bracelet (R)
+Wane Jade Bracelet (R)
+Wane Diamond Bracelet (R)
+Agile Diamond Bracelet (R) - Breaker
+Lucky Diamond Bracelet (R) - Breaker
+Agile Diamond Bracelet (R) - Carol
+Lethal Diamond Bracelet (R) - Carol
+[Rune] Conquest Ruby Bracelet (R)
+[Rune] Breaker Jade Bracelet (R)
+[Rune] Oracle Diamond Bracelet (R)
+Wane Ruby Bracelet (R)
+Wane Jade Bracelet (R)
+Wane Diamond Bracelet (R)
+Wane Solar Bracelet (R)
+Dominion Solar Bracelet (R) - Undying
+Dominion Solar Bracelet (R)
+Dominion Solar Bracelet (R) - Justiciar
+Solar Peerless Bracelet (R) - Undying
+Agile Solar Bracelet (R)
+Lucky Solar Bracelet (R) - Justiciar
+Wane Jasper Bracelet (R)
+Lethal Jasper Bracelet (R) - Illuminate
+Lethal Jasper Bracelet (R) - Hawkeye
+Dominion Jasper Bracelet (R) - Beastlord
+Dominion Jasper Bracelet (R) - Illuminate
+Agile Jasper Bracelet (R) - Hawkeye
+Agile Jasper Bracelet (R) - Beastlord
+Wane Star Bracelet (R)
+Lethal Star Bracelet (R) - Frostblade
+Lucky Star Bracelet (R) - Frostblade
+Wane Solar Bracelet (R)
+Wane Jasper Bracelet (R)
+Wane Star Bracelet (R)
+Wane Solar Bracelet (R)
+Wane Jasper Bracelet (R)
+Wane Star Bracelet (R)
+Agile Star Bracelet (R) - Silent
+Lucky Star Bracelet (R) - Silent
+Agile Star Bracelet (R) - Chant
+Lethal Star Bracelet (R) - Chant
+[Void] Undying Sunwarm Bracelet (R)
+[Void] Shadowstep Jasper Bracelet (R)
+[Void] Transcendent Starlight Bracelet (R)
+Wane Solar Bracelet (R)
+Wane Jasper Bracelet (R)
+Wane Star Bracelet (R)
+Prayer Charm
+Prayer Charm
+Prayer Charm
+Crimson Prayer Charm
+Emerald Prayer Charm
+Zircon Prayer Charm
+Wane Crimson Charm
+Wane Emerald Charm
+Wane Zircon Charm
+Lethal Crimson Charm
+Lethal Crimson Charm
+Dominion Crimson Charm
+Dominion Crimson Charm
+Dominion Crimson Charm - Bold
+Dominion Crimson Charm
+Lucky Crimson Charm
+Agile Crimson Charm
+Agile Crimson Charm
+Lucky Crimson Charm - Bold
+Lethal Emerald Charm
+Lethal Emerald Charm
+Dominion Emerald Charm - Hunter
+Dominion Emerald Charm
+Agile Emerald Charm
+Agile Emerald Charm - Hunter
+Lethal Zircon Charm
+Dominion Zircon Charm
+Lucky Zircon Charm
+Lucky Zircon Charm
+Wane Crimson Charm
+Wane Crimson Charm
+Wane Crimson Charm
+Wane Emerald Charm
+Wane Emerald Charm
+Wane Zircon Charm
+Wane Zircon Charm
+Wane Crimson Charm
+Wane Emerald Charm
+Wane Zircon Charm
+Wane Zircon Charm
+Wane Crimson Charm
+Wane Emerald Charm
+Wane Zircon Charm
+Wane Ruby Charm
+Lethal Ruby Charm
+Lethal Ruby Charm
+Dominion Ruby Charm
+Dominion Ruby Charm
+Dominion Ruby Charm
+Dominion Ruby Charm
+Lucky Ruby Charm
+Agile Ruby Charm
+Agile Ruby Charm
+Lucky Ruby Charm
+Wane Jade Charm
+Lethal Jade Charm - Avidya
+Lethal Jade Charm - Precise
+Dominion Jade Charm - Forest
+Dominion Jade Charm - Avidya
+Agile Jade Charm - Precise
+Agile Jade Charm - Forest
+Wane Diamond Charm
+Lethal Diamond Charm - Glacial
+Dominion Diamond Charm - Harmony
+Lucky Diamond Charm - Glacial
+Lucky Diamond Charm - Harmony
+Wane Ruby Charm - Vanguard
+Wane Ruby Charm - Conquest
+Wane Ruby Charm - Order
+Wane Jade Charm - Edge
+Wane Jade Charm - Ranger
+Wane Diamond Charm - Incantation
+Wane Diamond Charm - Warden
+Wane Ruby Charm
+Wane Jade Charm
+Wane Diamond Charm
+Wane Diamond Charm - Harmo
+Wane Ruby Charm - Vanguard
+Wane Jade Charm - Edge
+Wane Diamond Charm - Incantation
+Wane Solar Charm
+Lethal Solar Charm - Oath
+Lethal Solar Charm - Strider
+Dominion Solar Charm - Storm
+Dominion Solar Charm - Reveal
+Dominion Solar Charm - Justiciar
+Dominion Solar Charm - Oath
+Lucky Solar Charm - Strider
+Agile Solar Charm - Storm
+Agile Solar Charm - Reveal
+Lucky Solar Charm - Justiciar
+Wane Jasper Charm
+Lethal Jasper Charm - Illuminate
+Lethal Jasper Charm - Hawkeye
+Dominion Jasper Charm - Beastlord
+Dominion Jasper Charm - Illuminate
+Agile Jasper Charm - Hawkeye
+Agile Jasper Charm - Beastlord
+Wane Star Charm
+Lethal Star Charm - Frostblade
+Dominion Star Charm - Soul
+Lucky Star Charm - Frostblade
+Lucky Star Charm - Soul
+Wane Solar Charm - Lionheart
+Wane Solar Charm - Command
+Wane Solar Charm - Judgment
+Wane Jasper Charm - Anatta
+Wane Jasper Charm - Breaker
+Wane Star Charm - Magitech
+Wane Star Charm - Oracle
+Wane Solar Charm
+Wane Jasper Charm
+Wane Star Charm
+Wane Star Charm - Severe
+Wane Solar Charm - Lionheart
+Wane Jasper Charm - Anatta
+Wane Star Charm - Magitech
+Battle Imagine - Void Ogre
+Battle Imagine - Muku Warrior
+Battle Imagine - Inferno Goblin Mage
+Battle Imagine - Shadow Captain
+Battle Imagine - Void Foxen
+Battle Imagine - Boarrier Tyrant
+Battle Imagine - Muku King
+Battle Imagine - Airona
+Battle Imagine - Tempest Ogre
+Battle Imagine - Frost Ogre
+Battle Imagine - Tina
+Battle Imagine - Goblin Guard
+Battle Imagine - Goblin Warrior
+Battle Imagine - Brigand Archer
+Battle Imagine - Shadow Commander
+Battle Imagine - Lizardman Hunter
+Battle Imagine - Crimson Foxen
+Battle Imagine - Eye King
+Battle Imagine - Olvera
+Battle Imagine - Muku Chief
+Battle Imagine - Goblin Wind Mage
+Battle Imagine - Lizardman Mage
+Battle Imagine - Mutant Flesh Mountain
+Battle Imagine - Storm Goblin King
+Battle Imagine - Inferno Ogre
+Battle Imagine - Jungle Goblin Warrior
+Battle Imagine - Muku Scout
+Battle Imagine - The Bear
+Battle Imagine - Phantom Arachnocrab
+Battle Imagine - Void Arachnocrab
+Battle Imagine - Brigand Guard Captain
+Battle Imagine - Mighty Colossus
+Battle Imagine - Crimson Sprayer
+Battle Imagine - Muku Warrior
+Battle Imagine - Brigand Scout Leader
+Battle Imagine - Golden Juggernaut
+Battle Imagine - Tatta
+Battle Imagine - Great Warhog
+Battle Imagine - Storm Goblin Warrior
+Battle Imagine - Void Bzzar
+Battle Imagine - Venobzzar Incubator
+Battle Imagine - Iron Fang
+Battle Imagine - Celestial Flier
+Battle Imagine - Lizardman King
+Battle Imagine - Goblin King
+Battle Imagine - Muku Vanguard
+Battle Imagine Placeholder 26
+Battle Imagine Placeholder 27
+Battle Imagine Placeholder 28
+Battle Imagine Placeholder 29
+Will - Void Ogre
+Will - Muku Warrior
+Will - Goblin Mage
+Will - Shadow Captain
+Will - Void Foxen
+Will - Boarrier Tyrant
+Will - Muku King
+Will - Airona
+Will - Tempest Ogre
+Will - Frost Ogre
+Will - Tina
+Will - Goblin Guard
+Will - Goblin Warrior
+Will - Brigand Archer
+Will - Shadow Commander
+Will - Lizardman Hunter
+Will - Crimson Foxen
+Will - Eyeking
+Will - Olvera
+Will - Muku Chief
+Will - Goblin Wind Mage
+Will - Lizardman Mage
+Will - Void Fleshbeast
+Will - Storm Goblin King
+Will - Inferno Ogre
+Will - Jungle Goblin Warrior
+Will - Muku Scout
+Will - Brigand Captain
+Will - Phantom Arachnocrab
+Will - Void Arachnocrab
+Will - Brigand Guard Captain
+Will - Mighty Colossus
+Will - Crimson Sprayer
+Will - Muku Warrior
+Will - Brigand Scout Leader
+Will - Golden Juggernaut
+Will - Tatta
+Will - Great Warhog
+Will - Storm Goblin Warrior
+Will - Void Bzzar
+Will - Venobzzar Incubator
+Will - Iron Fang
+Will - Celestial Flier
+Will - Lizardman King
+Will - Goblin King
+Will - Muku Vanguard
+Design for Battle Imagine
+Design for Battle Imagine
+Design for Battle Imagine
+Design for Battle Imagine
+Healing Tonic
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Invalid Module
+Unknown Attack Module
+Unknown Attack Module
+Unknown Support Module
+Unknown Support Module
+Unknown Guard Module
+Unknown Guard Module
+Random Module
+Special Grant from the Pioneer Bureau
+Basic Attack Module
+Advanced Attack Module
+Excellent Attack Module
+Basic Support Module
+Advanced Support Module
+Excellent Support Module
+Basic Guard Module
+Advanced Guard Module
+Excellent Guard Module
+Young Wolf
+Meowstar Envoy
+Stellar Raider
+Stellar Raider
+Code Robot
+Code Robot
+Campus Swimsuit
+Campus Swimsuit
+Sand & Time
+Sand & Time
+Commander Uniform
+Commander Uniform
+Azure Nocturne
+Stellar Damask
+Moonveil Shinobi
+Moonveil Shinobi
+Flame Oath Arbiter
+Flame Oath Arbiter
+Rab Meow
+Rab Meow
+Time Dancer
+Time Dancer
+Sakura Blizzard
+Sakura Blizzard
+Veiled Moon
+Veiled Moon
+Fluffy White
+Fluffy White
+Snow Moon
+Snow Moon
+Reverie Rhapsody
+Reverie Rhapsody
+Solsticera
+Solsticera
+Flourish
+Flourish
+Vita Meow
+Vita Meow
+Earl Grey
+Midnight Rose
+Novice Casual Wear
+Novice Casual Wear
+Type Zero
+Type Zero
+Jungle Gale
+Jungle Gale
+Morning, My Princess
+Morning Elegance
+Detective
+Detective
+Steel Plate
+Iron Armor
+Argent Lunar
+Argent Lunar
+Abyssal Breastplate
+Abyssal Breastplate
+Explorer
+Explorer
+Flawless Domain
+Flawless Domain
+Royal Attire
+Royal Attire
+Starry Night
+Starry Night
+No. 71
+No. 71
+New Gear #1
+New Gear #1
+New Gear #2
+New Gear #2
+New Gear #3
+New Gear #3
+New Uniform
+New Uniform
+Twilight Iron Guard
+Twilight Iron Guard
+Evening Etiquette
+Black Tea Time
+Nocturne Concerto
+Nocturne Concerto
+Core Drive
+Core Drive
+Agile Gear
+Agile Gear
+Afternoon Tea Party
+Afternoon Tea Party
+Intellect Gear
+Intellect Gear
+Advanced Armor
+Advanced Armor
+Before the Curtain Falls
+Before the Curtain Falls
+Orange Uniform
+Orange Uniform
+Sailor Moon
+Sailor Moon
+Snowfall Sakura
+Snowfall Sakura
+Great Magician
+Great Magician
+Silver Armor
+Silver Armor
+Abyssal Cuirass
+Abyssal Cuirass
+Jungle Gale
+Jungle Gale
+Steel Plate
+Steel Plate
+Seabreeze Duet
+Seabreeze Duet
+Strawberry Bubble
+Strawberry Bubble
+Royal Court 2
+Royal Court 2
+Stellar Navigator
+Stellar Navigator
+Overdrive Set
+Overdrive Set
+Night Shard
+Night Shard
+Youth Memoir
+Youth Memoir
+Deskmate
+Deskmate
+Silver Rite
+Dawn Rite
+Long Vacation
+Long Vacation
+Fluffy Dreams
+Fluffy Dreams
+Order Guardian
+Order Guardian
+Shadow Hunter
+Shadow Hunter
+Castle Adventure
+Castle Adventure
+Spring Invitation
+Spring Invitation
+Cool
+Cool
+Sunny Day
+Sunny Day
+Training Suit
+Training Suit
+Endless Carnival
+Endless Carnival
+Heatwave Sprint
+Heatwave Sprint
+Nappo Style
+Nappo Style
+Airona's Fan Shirt
+Airona's Fan Shirt
+The Show Goes On
+The Show Goes On
+Serene Moments
+Serene Moments
+Vitality Boost
+Vitality Boost
+Orange Sparkle
+Orange Sparkle
+Blueberry Party
+Blueberry Party
+Youth Celebration
+Youth Celebration
+After-School
+After-School
+Dream Cruise
+Dream Cruise
+Wavebreaker
+Wavebreaker
+Dynamic Lines
+Dynamic Lines
+Avant-Garde Art
+Vitality Commute
+Plaid Shirt
+ui/atlas/weap_icon/weap_equip_square_03
+Youth Memoir
+Youth Memoir
+Deskmate
+Deskmate
+Silver Rite
+Dawn Rite
+Long Vacation
+Long Vacation
+Fluffy Dreams
+Fluffy Dreams
+Order Guardian
+Order Guardian
+Shadow Hunter
+Shadow Hunter
+Castle Adventure
+Castle Adventure
+Spring Invitation
+Spring Invitation
+Cool
+Cool
+Sunny Day
+Sunny Day
+Training Suit
+Training Suit
+Endless Carnival
+Endless Carnival
+Heatwave Sprint
+Heatwave Sprint
+Nappo Style
+Nappo Style
+Airona's Fan Shorts
+Airona's Fan Shorts
+The Show Goes On
+The Show Goes On
+Serene Moments
+Serene Moments
+Vitality Boost
+Vitality Boost
+Orange Sparkle
+Orange Sparkle
+Blueberry Party
+Blueberry Party
+Youth Celebration
+Youth Celebration
+After-School
+After-School
+Dream Cruise
+Dream Cruise
+Wavebreaker
+Wavebreaker
+Dynamic Lines
+Dynamic Lines
+Avant-Garde Art
+Vitality Commute
+ui/atlas/weap_icon/weap_equip_square_03
+Plaid Skirt
+Earl Grey
+Midnight Rose
+Novice Gauntlets
+Novice Gauntlets
+Type Zero
+Type Zero
+Jungle Gale
+Jungle Gale
+Morning, My Princess
+Morning Elegance
+Detective
+Detective
+Steel Armguards
+Steel Armguards
+Argent Lunar
+Argent Lunar
+Abyssal Gauntlets
+Abyssal Gauntlets
+Explorer
+Explorer
+Royal Attire
+Royal Attire
+Starry Night
+Starry Night
+New Gear #1
+New Gear #1
+New Gear #2
+New Gear #2
+New Gear #3
+New Gear #3
+New Uniform
+New Uniform
+Twilight Iron Guard
+Twilight Iron Guard
+Evening Etiquette
+Black Tea Time
+Nocturne Concerto
+Nocturne Concerto
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+Agile Gear
+Agile Gear
+Intellect Gear
+Intellect Gear
+Advanced Armor
+Advanced Armor
+Before the Curtain Falls
+Before the Curtain Falls
+Orange Uniform
+Orange Uniform
+Sailor Moon
+Sailor Moon
+Snowfall Sakura
+Snowfall Sakura
+Great Magician
+Great Magician
+Silver Armor
+Silver Armor
+Abyssal Cuirass
+Abyssal Cuirass
+Jungle Gale
+Jungle Gale
+Steel Plate
+Steel Plate
+Royal Court 2
+Royal Court 2
+Stellar Navigator
+Stellar Navigator - Gauntlets
+Overdrive Gauntlets
+Overdrive Gauntlets
+Night Shard
+Night Shar
+Youth Memoir
+Youth Memoir
+Silver Rite
+Dawn Rite
+Long Vacation
+Long Vacation
+Order Guardian
+Order Guardian
+Shadow Hunter
+Shadow Hunter
+Castle Adventure
+Castle Adventure
+Fluffy
+Fluffy
+Training Suit
+Training Suit
+Endless Carnival
+Endless Carnival
+Nappo Style - (Placeholder)
+Nappo Style (No Male Version)
+The Show Goes On
+The Show Goes On
+Dream Cruise
+Dream Cruise
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+Earl Grey
+Midnight Rose
+Novice Shoes
+Novice Shoes
+Type Zero
+Type Zero
+Jungle Gale
+Jungle Gale
+Morning, My Princess
+Morning Elegance
+Detective
+Detective
+Steel Sabatons Boots
+Steel Sabatons Boots
+Argent Lunar
+Argent Lunar
+Abyssal Greaves
+Abyssal Greaves
+Explorer
+Explorer
+Royal Attire
+Royal Attire
+Starry Night
+Starry Night
+New Gear #1
+New Gear #1
+New Gear #2
+New Gear #2
+New Gear #3
+New Gear #3
+New Uniform
+New Uniform
+Twilight Iron Guard
+Twilight Iron Guard
+Evening Etiquette
+Black Tea Time
+Nocturne Concerto
+Nocturne Concerto
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+Agile Gear
+Agile Gear
+Afternoon Tea Party
+Afternoon Tea Party
+Intellect Gear
+Intellect Gear
+Advanced Armor
+Advanced Armor
+Before the Curtain Falls
+Before the Curtain Falls
+Orange Uniform
+Orange Uniform
+Sailor Moon
+Sailor Moon
+Snowfall Sakura
+Snowfall Sakura
+Great Magician
+Great Magician
+Silver Armor
+Silver Armor
+Abyssal Cuirass
+Abyssal Cuirass
+Jungle Gale
+Jungle Gale
+Steel Plate
+Steel Plate
+Strawberry Bubble
+Strawberry Bubble
+Royal Court 2
+Royal Court 2
+Stellar Navigator
+Stellar Navigator
+Overdrive Shoes
+Overdrive Shoes
+Night Shard
+Night Shard
+Youth Memoir
+Youth Memoir
+Deskmate
+Deskmate
+Silver Rite
+Dawn Rite
+Long Vacation
+Long Vacation
+Fluffy Dreams
+Fluffy Dreams
+Order Guardian
+Order Guardian
+Shadow Hunter
+Shadow Hunter
+Castle Adventure
+Castle Adventure
+Spring Invitation
+Spring Invitation
+Cool
+Cool
+Training Suit
+Training Suit
+Endless Carnival
+Endless Carnival
+Nappo Style
+Nappo Style
+Airona's Fan Boots
+Airona's Fan Boots
+The Show Goes On
+The Show Goes On
+Serene Moments
+Serene Moments
+Vitality Boost
+Vitality Boost
+Orange Sparkle
+Orange Sparkle
+Blueberry Party
+Blueberry Party
+After-School
+After-School
+Dream Cruise
+Dream Cruise
+Wavebreaker
+Wavebreaker
+Type Zero
+Jungle Gale
+Sand & Time
+Sand & Time
+Novice Feltcap
+Stellar Raider
+Code Robot
+Smart Robot
+Type Zero
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+Top Hat
+ui/atlas/weap_icon/weap_equip_square_03
+Cat Ears
+Dog Ears
+Commander Uniform
+ui/atlas/weap_icon/weap_equip_square_03
+Steel Facehelm
+Argent Lunar
+Abyssal Facehelm
+Explorer
+Ninja Dance
+Shell
+Monster Ear I
+Monster Ear II
+Monster Ear III
+Monster Ear IV
+Monster Ear V
+Monster Horn I
+Monster Horn II
+Monster Horn III
+Monster Horn IV
+Corgi Plush
+Shark Doll
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+Novice Feltcap
+Black Dragon Horn
+Casual Fisherman Hat
+Gem Hairpin
+Shadow-Pattern Baseball Cap
+ui/atlas/weap_icon/weap_equip_square_03
+Buckle Baseball Cap
+ui/atlas/weap_icon/weap_equip_square_03
+Ribbon Bow
+Monster Hat I
+Boarrier Hat
+Wig Hat
+Flame Oath Arbiter - Headwear
+Flame Oath Arbiter - Headwear
+Vita Meow
+Rab Meow
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+Maid Headband I
+Maid Headband II
+Maid Headband III
+Flawless Crown
+Flawless Domain
+Fluffy Hairband
+Order Guardian
+Sea Breeze Weaver
+Goat Pretender Hat
+Plaid Beret
+Winter Warmth
+Snowflake Earmuffs
+Top Hat
+Soldier Helmet
+Boarlet Cap
+Turkey Hat
+Nappo Style
+Owl Hat
+Ee-chan's Hat
+Jester Hat
+Castle Adventure
+Time Dancer
+Ribbon Hat
+Ribbon Bow Beret
+Exclamation Mark
+Barrel Hat
+Arrow Mark
+Spring Invitation
+Blooming Ode
+Bellflower
+Fluttering Ribbon
+Lost Golden Rose Hat
+Tricky Bunny Ear
+Fluttering Heart Bow
+Straw Hat
+Nappo
+First Dance
+Commemorative Hat
+No. 71
+Crimson Bell
+Youthful Hairpin
+Sleepy Kitty
+Sleepy Puppy
+New Gear #1
+New Gear #2
+New Gear #3
+Twilight Iron Guard
+Twilight Iron Guard
+- Headwear
+Gold Nappo
+Silver Nappo
+Jubilee Top Hat
+Diadem
+Gear Hat
+White Headscarf
+Work Beret
+Training Suit
+British Beret
+Snowfall Sakura
+Pumpkin Head
+Alchemist Hat
+Mushroom
+Miner Safety Helmet
+Prospector Hat
+Leather Hat
+Homemade Ore Headband
+Work Headscarf
+Grass Wreath
+Nocturne Concerto
+Nocturne Concerto
+Core Drive
+Core Drive
+Agile Gear
+Reverie Rhapsody
+Intellect Gear
+Advanced Armor
+Advanced Armor
+Meowlux Hat
+Orange Uniform
+Great Magician
+Silver Armor
+Rose Attire
+Melody Flying
+Second Monthly Pass
+Third Monthly Pass
+Abyssal Cuirass
+Jungle Gale
+Steel Plate
+Blooming Hat
+Rainbow
+Solsticera
+Solsticera
+Snuggly Narulu
+Plume Coronet
+Braided Bucket Hat
+Tailor's Hat
+Peacock Plume
+Flourish Headwear
+Deerstalker Hat
+Ribbon Beret
+Home Runs
+Rabbit-Clasp Beret
+Royal Court 2
+Royal Court 2 Hairpin
+Wavebreaker
+Penguin Pom Hat
+Azure Nocturne
+Stellar Damask
+Starflare Hairpin
+Starveil Sea Lily
+Dark Star Hairpin
+Cat Paw Hairpin
+Paper Bag
+Snuggly Airona
+Overdrive Headwear
+Hood
+Night Shard
+Alpha Cut
+Carpenter's Hat
+Sunny Lazybones
+Cat Ear Hat
+Ee-chan Earmuffs
+Monocle
+Gold-rimmed Glasses
+Pig Hero Mask
+Demon Horn Mask
+Thick Frame Glasses
+Bottom-rim Glasses
+Top-rim Glasses
+Novelty Glasses
+Dark Veil
+Eyemask
+Sweet Dreams Eyemask
+Band-Aid
+Bunny Band-Aid
+Snow Woven Veil
+Runic Eyemask
+Dark Sunglasses
+Vintage Glasses
+Castle Adventure
+Bottom-rim Sunglasses
+Pixelated Glasses
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+Chain Glasses
+Modern Glasses
+Heart-Shaped Sunglasses
+Star Sunglasses
+Scholar's Glasses
+Black Frame Glasses
+Sea Breeze Visage
+Sage's Gaze
+Elite Glasses
+Starflare Glasses
+Trendy Sunglasses
+Rose Bloom
+Mask
+Bread Slice
+Beard
+Chocolate Bar
+Dog Mask
+Bunny Nose
+Respirator
+Fox Mask
+Snow Beard
+Assassin Mask
+Petit Mustache
+Candy Pop
+Leaf Blade
+Shadow Hunter
+Blade Clench
+Taiyaki
+Ice Cream Cone
+Clown Mask
+Bubblegum
+Mini TV Card
+Chocolate Bar
+Pacifier
+Lucky Clover
+Cat Tail
+Wolf Tail
+Dog Tail
+Tiger Tail
+Pig Tail
+Rabbit Tail
+Sheep Tail
+Black Dragon Tail
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+Pink Wings
+Nappo Floatie
+Ee-chan Floatie
+Surfboard
+Mooncleaver
+Airona Backpack
+Picnic Inventory
+Sack of Plenty
+Rise and Shine
+Tied
+Angel Wings
+Demon Wings
+Ee-chan's Bag
+Elf Wings 1
+Elf Wings 2
+Abai Doll Backpack
+Alyu Doll Backpack
+Coral Solsticera
+Rose Crimson
+Azure Zircon
+Whisper Wind
+Silver Wing
+Novice
+Moonlight Zircon
+Olive Emerald
+Fairy Ears
+Fairy Ears
+Heart of the Night
+Heart of the Night
+Glowing Gem
+Xeno Mimic
+Starry Night - Earwear
+Prayer of Wind
+Tidal Jewel
+Solsticera
+Five-Pointed Sta
+Blue Ore
+Feather Tassel
+Peacock Plume
+Yellow Flower
+Rose Crimson
+Rose Crimson
+Azure Zircon
+Azure Zircon
+Novice
+Novice
+Moonlight Zircon
+Moonlight Zircon
+Olive Emerald
+Olive Emerald
+Heart of the Night
+Heart of the Night
+Glowing Gem
+Glowing Gem
+Xeno Mimic
+Xeno Mimic
+Starry Night - Necklace
+Starry Night - Necklace
+Prayer of Wind
+Prayer of Wind
+Tidal Jewel
+Tidal Jewel
+Solsticera
+Solsticera
+Rose Crimson
+Rose Crimson
+Azure Zircon
+Azure Zircon
+Red Agate
+Red Agate
+Square Gem
+Square Gem
+Novice
+Novice
+Moonlight Zircon
+Moonlight Zircon
+Olive Emerald
+Olive Emerald
+Heart of the Night
+Heart of the Night
+Glowing Gem
+Glowing Gem
+Xeno Mimic
+Xeno Mimic
+Starry Night - Ring
+Starry Night - Ring
+Ribbon Bow
+Ribbon Bow
+Prayer of Wind
+Prayer of Wind
+Tidal Jewel
+Tidal Jewel
+Solsticera
+Solsticera
+Mini TV Hairpin
+Penguin Pom Hat
+Mini Bolt
+Mini Crescent
+Wasteland Feather
+Wasteland Feather
+Xeno Mimic
+Xeno Mimic
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+ui/atlas/weap_icon/weap_equip_square_03
+Xeno Mimic
+Xeno Mimic
+Limited Baseball Cap
+Star Overseer
+Star Overseer
+Star Overseer
+Core Drive
+Core Drive
+Core Drive
+Core Drive
+Core Drive
+Star Resonance Tee
+Star Resonance Tee
+Sleepy Nappo
+Thunder Demon Backpack
+Goblin Plush Backpack
+Envoy of Night
+Envoy of Night
+Envoy of Night
+Envoy of Night
+Envoy of Night
+Envoy of Night
+Envoy of Night
+Nightbringer - Headwear
+Envoy of Night
+Adventure Day
+Adventure Day
+Adventure Day
+Adventure Day
+Adventure Day
+Adventure Day
+Twilight Rush
+Twilight Rush
+Twilight Rush
+Twilight Rush
+Twilight Rush
+Twilight Rush
+Twilight Rush
+Twilight Rush
+Galecrest
+Starry Night
+Twilight Rush - Headwear
+Instant Charging - Headwear
+Dream Sail - Headwear
+Dream Voyage - Headwear
+Sailor Hat - Headwear
+Stellar Navigator - Headwear
+----
+----
+----
+----
+----
+----
+----
+----
+----
+----
+
+----
+Bouncing Bunny
+Oboro Blade
+Mirrorlight Blade
+Lotus Blade
+Sakura Blade
+Doomlord Blade
+Shadow of the Far Sea
+Emberglow Blade
+Oboro Staff
+Mirrorlight Staff
+Lotus Staff
+Sakura Staff
+Doomlord Staff
+Revelation of the Far Sea
+Emberglow Staff
+Battleaxe
+Oboro Lance
+Mirrorlight Lance
+Lotus Lance
+Sakura Lance
+Doomlord Lance
+Wish of the Far Sea
+Emberglow Lance
+Oboro Ring
+Mirrorlight Ring
+Lotus Ring
+Sakura Ring
+Doomlord Ring
+Grace of the Far Sea
+Emberglow Ring
+Hand Cannon
+Oboro Edge
+Mirrorlight Edge
+Lotus Edge
+Sakura Edge
+Doomlord Edge
+Waiting of the Far Sea
+Emberglow Edge
+Common Ceremonial Staff
+Oboro Bow
+Mirrorlight Bow
+Lotus Bow
+Sakura Bow
+Doomlord Bow
+Gaze of the Far Sea
+Emberglow Bow
+Oboro Aegis
+Mirrorlight Aegis
+Lotus Aegis
+Sakura Aegis
+Doomlord Aegis
+Vow of the Far Sea
+Emberglow Aegis
+Oboro Guitar
+Mirrorlight Guitar
+Lotus Guitar
+Sakura Guitar
+Doomlord Guitar
+Hymn of the Far Sea
+Emberglow Guitar
+Ee-chan with a Diadem
+Avatar - Airona
+Avatar - Olvera
+Avatar - Tatta
+Avatar - Tina
+Avatar - Boyce
+Quirky and Cute
+Trendsetter
+Avatar Frame
+Avatar Frame - Star Resonance
+Meowlu Cocos
+Meowlu Lux
+Sit in a Row
+Void Shadow
+Avatar Frame - Resonator
+Avatar Frame - Penguin
+Avatar Frame - Bubble Pup
+Avatar Frame - Tencent Appstore
+Avatar Frame - Xinyue Lv.1-G2
+Avatar Frame - Xinyue V1-V2
+Avatar Frame - Xinyue V3-V4
+Avatar Frame - Xinyue V5
+Avatar Frame - Golden Radiance (Huawei)
+Avatar Frame - Tencent Video
+Avatar Frame - Tarara
+Avatar Frame - Vivid Energy (OPPO)
+Avatar Frame - Kite Night (vivo)
+Avatar Frame - Heart of Play (Xiaomi)
+Avatar Frame - Summer Beach (Honor)
+Avatar Frame - Mini TV
+Avatar Frame - 3839
+Avatar Frame - Game Box
+Avatar Frame - Kuaishou
+Avatar Frame - Douyin
+Avatar Frame - Huya
+Avatar Frame - Visitor of Inspiration
+Avatar Frame - Starlit Glow
+Avatar Frame - Supercore
+Avatar Frame - Star Resonance
+Avatar Frame - Heart of Brilliance
+Avatar Frame - Endless Stardust
+Avatar Frame - Circlet of Eternity
+Avatar Frame - In the Name of Master
+Avatar Frame - Seabreeze Festival
+Avatar Frame - Starlit Promise
+
+
+
+
+
+Full of Ee-chan
+Anchor Beacon
+Pink Bubble
+Black Humor
+Star Resonance
+Royal Attire
+Namecard Holder -In the Name of Master
+Flawless Domain
+Solsticera
+Photon Matrix
+Envoy of Night
+Starlit Promise
+Core Drive
+Xeno Mimic
+Great Traveler
+Fisherman
+Master Chef
+Three-Star Chef
+Fashion Expert
+Mindrealm Battle
+Towering Ruin Battle
+Transcender - Power
+Transcender - Protector
+Transcender - Support
+Genius Bartender
+Tina Limit Breaker
+Giant Tower Limit Breaker
+Kanamia Limit Breaker
+Dragon Limit Breaker
+Monster Expert
+Tencent Channel Exclusive
+Goblin Limit Breaker
+Artisanry
+Mineralogy
+Crystal Craftship
+Alchemy
+Culinary
+Gemology
+Botany
+Smelting
+Good Luck
+Full of Luck
+Shining Debut
+Bestie - Tina
+Bestie - Olvera
+Bestie - Heart Gesture
+Rose Attire
+Royal Attire
+Flawless Domain
+Starry Domain
+Solsticera
+Coral Solsticera
+Battle Mech
+Battle Mech - Light
+Shimmering Beautifish
+Solstic Beautifish
+Radiant Beautifish
+Royal Horse: Platinum
+Royal Horse: Golden Black
+Mini Golem
+Scarlet Golem
+Electro Golem
+Giant Golem
+Pearl Golem
+Cyan Golem
+Dark Mist Fortress Limit
+Artisanry
+Weaving
+"Star Awakening Test"
+"Resonance Test"
+Tina
+Seabreeze Festival: Rab
+Seabreeze Festival: Vita
+Phantom Devourer
+Badge - Starlit Promise
+Badge - Core Drive
+Badge - Awakened Drive
+Badge - Xeno Mimic
+Badge - Disorder Mimic
+Badge - Hyper Impulse
+Badge - Firestorm Impulse
+Badge - Golem Foxen
+Badge - Abyss Foxen
+Space Background
+Background - Rose
+Background - Star
+Background - Coral
+Background - Solstic
+Background - Golden Black
+Background - Scarlet
+Background - Electro
+Background - Pearl
+Background - Cyan
+Background - Starlit Promise
+Background - Awakened Drive
+Background - Disorder Mimic
+Background - Firestorm Impulse
+Background - Abyss Foxen
+Title - Into Tina's Mindrealm
+Title - Spire Inspired
+Title - King of Dragon Slayers
+Title - Dragon Slayer Pioneer
+Title - Majestic Boss Slayer
+Title - I Can Still Fight
+Title - Check Out My Attack!
+Title - Power Unbound
+Title - I Can Still Tank
+Title - I've got you.
+Title - Guardian Unbound
+Title - I Can Still Heal
+Title - I've Got Your Back!
+Title - Support Unbound
+Title - Jack of All Trades
+Title - Engram Line in the Sky?
+Title - Treasure Fanatic!
+Title - Treasure Hunter
+Title - Treasure-Obsessed
+Title - Turbo Sightseer
+Title - Joystick Aristocrat
+Title - Look, It's a Fishing Pro!
+Title - Swept the Waters
+Title - Nappo Nappo Nappo!
+Title - I'm a purrfessional
+Title - Kitchen's Mine
+Title - Cooking with Heart
+Title - Walking Regnus Recipe
+Title - One of a Kind
+Title - Effortlessly Stylish!
+Title - Style Enforcer
+Title - Monster Slayer
+Title - No Escape for Monsters
+Title - Golden Monster Hunter
+Title - Everyone's My Friend
+Title - Make Friends! Now!
+Title - Networking Expert
+Title - Star Chest! Open it!
+Title - No Star Chest No Life!
+Title - Star Chest Galore
+Title - Money! Come to me!
+Title - Lunooooo
+Title - Regnus Billionaire
+Title - Mission Accomplished
+Title - Master Transporter
+Title - Trade Navigator
+Title - Star of the Bureau
+Title - Asterleeds Star
+Title - Regnus Star
+Title - Merit +1
+Title - Merit +999
+Title - Merit +999999
+Title - A Long Way to Go
+Title - Destined for Greatness!
+Title - Limit Breaker
+Title -Clawmarked
+Title - Element Deconstructor
+Title - Afro Artist
+Title - Living Alchemy Furnace
+Title - Novice Gemsmith
+Title - Master Gem Cutter
+Title - Living Gem Faceting
+Title - Novice Smelting
+Title - Master Smelting
+Title - Living Forge
+Title - Novice Processor
+Title - Master of Artisanry
+Title - Processing with Pep!
+Title - Novice Gatherer
+Title - Nature's Porter
+Title - Gathering with Gusto!
+Title - Novice Miner
+Title - Mineral Porter
+Title - Mining with Mojo!
+Title - Novice Stone Collector
+Title - Stone Porter
+Title - Quarry with Spirit!
+Title - Exquisite Perfectionist
+Title - Shaper of the Formless
+Title - Seasoned Boss Slayer
+Title - Boss Annihilator
+Title - In the Boss's Eyes
+Title - Beauty Forged in Fire
+Title - In the World Boss's Eyes
+Title - Moving Ever Upward
+Title - Aiming for the Top
+Title - Reach the Summit
+Title - Meowlux "Shareholder"
+Title - Pump Proficient
+Title - Abyssal Legend
+Title - Gold Rush Rookie
+Title - Cute Ones Also Get Wrecked
+Title - Gold Nappo Follower
+Title - Knight Boarlet, Forward!
+Title - Good Boarlet, Best Boarlet
+Title - Gold Boarlet Follower
+Title - Got "Best Show"
+Title - "Best Show" Collector
+Title - Beyond Human "Show"
+Title - Word Collector
+Title - A Thousand Pages Begin with a Page
+Title - Literary Grace in Every Move
+Title - Rookie Errand King
+Title - NPC Evangelist
+Title - Rise! Workhorse!
+Title - Performance Artist
+Title - Trendsetter
+Title - Dragon Claw Valley - Limit Breaker
+Title - Kanamia Trial - Limit Breaker
+Title - Tina's Mindrealm - Limit Breaker
+Title - Towering Ruin - Limit Breaker
+Title - Goblin Lair - Limit Breaker
+Title - Let the Refining Begin
+Title - A Refining Guru at Last
+Title - Fully Armored Attack!
+Title - Mod Maniac
+Title - Mod Mastermind
+Title - Max Link, No Brakes!
+Title - Seasoned Elite Monster Slayer
+Title - Elite Monster Annihilator
+Title - In the Elite Monster's Eyes
+Title - Hello, First Timer
+Title - Time Assassin - 24/7
+Title - Ultimate Glory of a Human Bot
+Title - Luck Within Reach
+Title - This Drop Is the One! (Probably)
+Title - Council Chair of the Regnus Wish Alliance
+Title - Vanished Focus
+Title - Feeling Completely Drained
+Title - Battery at 1%
+Title - Respected Adventurer
+Title - Esteemed Adventurer
+Title - Resonator of the Blue Star
+Title - Monochrome Adventurer
+Title - Bubbles of Imagination
+Title - Shining Star
+Title - Harmony and You IV
+Title - Harmony and You III
+Title - Harmony and You II
+Title - Harmony and You I
+Title - Star of Hope
+Title - A Shadow at Your Side
+Title - Toward a Distant Future
+Title - Good Morning, Regnus
+Title - Good Night, Regnus
+Title - Step by Step
+Title - Dawn Walker
+Title - Spirit of the Eternal Journey
+Title - Runaway Hero
+Title - To the Unknown World
+Title - Adventure in Full Swing
+Title - Adventure of Love and Courage
+Title - Let the Journey Begin
+Title - Starborn Seeker
+Title - Eye of Insight
+Title - Supercore Player
+Title - Star Resonance Sigil
+Title - Sigil of Brilliance
+Title - Sigil of Charisma
+Title - Sigil of Eternity
+Title - Star Resonance Ambassador
+Title - The Sealed One
+Title - Light of the Elder
+Title - Void Corruption Frenzy - All Limited!
+Title - Perfection at All Times
+Title - Core - Ultimate Boundary
+Title - Shackles Severed by Unity
+Title - Departure from the Floating Island
+Title - Familiar with the Floating Island
+Title - Conqueror of the Floating Island
+Title - In the Name of Master
+Title - Sky Is the Limit!
+Title - Goblin Lair - Limit Breaker
+Title - Tina's Mindrealm - Limit Breaker
+Title - Towering Ruin - Limit Breaker
+Title - Kanamia Trial - Limit Breaker
+Title - Dragon Claw Valley - Limit Breaker
+Title - Dark Mist Fortress - King of Limits
+Title - The Highly Anticipated Rookie
+Title - Supreme Powerholder
+Title - Engram Candidate
+Title - Transform!
+Title - Super Transform!
+Title - Weakling
+Title - Chronic Indecisiveness
+Title - Gateway to a New World
+Title - Ode to Skill and You
+Title - Second Stage Liberation
+Title - Epic Quartet
+Title - Eighth Power
+Title - The Sixteenth Star
+Title - Resonant Performer
+Title - Sync Rate: 40%
+Title - Sync Rate: 60%
+Title - Sync Rate: 100%
+Title - A Long Way to Go
+Title - Star Resonance Master
+Title - Ultra OO-Class Hero
+Title - Beauty Forged in Fire
+Title - Artisan Researcher
+Title - Artisan Pioneer
+Title - Art Refinement Master
+Title - Limitless Ambition!
+Title - Gear Evolving
+Title - Flawless
+Title - Ultimate Ascension
+Title - Aiming for the Top
+Title - Driving Force
+Title - Performance Overdrive
+Title - Destiny Resonance
+Title - Become Light Together!
+Title - Divide and Conquer
+Title - Boss Terminator
+Title - Sworn Loyalty to You
+Title - In the Boss's Eyes
+Title - Glory Bestowed Upon Me
+Title - Extremely Favorable Situation
+Title - Elite Terminator
+Title - The Sin Reckoner
+Title - In the Elite Monster's Eyes
+Title - Luck S
+Title - Golden Shine!
+Title - Kitten's Love
+Title - Boarrier Rush
+Title - Golden Pig Knight
+Title - Nappo "Protection" Guild
+Title - Pink, Green, Golden: All Good Piggies!
+Title - Apprentice Combatant
+Title - Combat Committee Chairman
+Title - Discipline Committee Chairman
+Title - Goodbye, Little Monsters
+Title - Monster Hunter
+Title - Bounty Hunter
+Title - The Unstoppable Hunter
+Title - Messenger of the Hunting God
+Title - I Can Still Fight
+Title - Check Out My Attack!
+Title - Power Unbound
+Title - I Can Still Tank
+Title - I've got you.
+Title - Guardian Unbound
+Title - I Can Still Heal
+Title - I've Got Your Back!
+Title - Support Unbound
+Title - Unnamed but Unbeatable
+Title - Hello, First Timer
+Title - Just a Warm-Up
+Title - Time Assassin - 24/7
+Title - Ultimate Glory of a Human Bot
+Title - Preliminary Exploration
+Title - Light Leap
+Title - Interwoven Testimony
+Title - Hyper-Spatial Infiltration
+Title - Moving Ever Upward
+Title - Aiming for the Top
+Title - Reach the Summit
+Title - To the Stellar Expanse
+Title - Join Forces Now!
+Title - More Than Yourself
+Title - Don't Underestimate Our Bond
+Title - Supernova
+Title - The Sea Breeze's Favorite
+Title - Planetary Adjuster
+Title - Star of Eternal Legend
+Title - Pilgrim to the Holy Land
+Title - Memory of the World
+Title - Wanderer of the Waves
+Title - Ally of New Leaves
+Title - Messenger of Blossoms
+Title - Rainforest Explorer
+Title - Secret Contact
+Title - Wind-Chasing Wanderer
+Title - Unknown Investigator
+Title - Treasure Chest Monster?
+Title - Treasure Fanatic!
+Title - Don't Stop!
+Title - Treasures of the King
+Title - Electromagnetic Wave
+Title - Super Electromagnetic Cannon
+Title - Wind-Splitting Strike
+Title - I Am the Storm
+Title - Barrier of the Wind King
+Title - Dream Fireworks
+Title - One-Day Detective
+Title - White Night Vanguard
+Title - Tide Envoy
+Title - Kanamia Brave
+Title - Twilight's Ablution
+Title - Lucid Somnambulist
+Title - Echo of the Fallen
+Title - Gaze into the Storm Abyss
+Title - Where Night Returns
+Title - Open for Orders
+Title - On Delivery...
+Title - Closed for Orders
+Title - Victory is Ours to Take
+Title - Bookworm
+Title - Word Collector
+Title - Knowledge is Power
+Title - Non-Reimbursable
+Title - A Smooth Brain
+Title - Useless Knowledge Increased
+Title - Classics Club Member
+Title - A Qualified Purr-fect Caretaker
+Title - Anomaly Archivist
+Title - Wandering Mariner
+Title - Mechanical Technician
+Title - Few Friends Club
+Title - Memories of Love and Friendship
+Title - Our Bond
+Title - Intelligence at Hand
+Title - Wandering Tales of the World
+Title - The All-Seeing Eye
+Title - Rainbow Memories
+Title - Proof of Time
+Title - Encounters and Remembrance
+Title - Brief Words, Deep Feelings
+Title - Scenery Along the Way
+Title - The Scenery in Your Eyes
+Title - Love Noob
+Title - Bestie in Love
+Title - Love Navigator
+Title - Guardian of Love
+Title - Honorary Executor
+Title - Glorious Warrior
+Title - Silver Badge Recipient
+Title - The Legend of Platinum
+Title - Meowlux Experience Officer☆
+Title - Meowlux owner☆
+Title - Meowlux Magician☆
+Title - Owner of Meowlux
+Title - Luck Within Reach
+Title - This Drop Is the One! (Probably)
+Title - Fate and Wish's Wishing Star
+Title - Council Chair of the Regnus Wish Alliance
+Title - Merit +1
+Title - Quality +9
+Title - Kindness +99
+Title - Order +999
+Title - Light +9999
+Title - The Highest and the Greatest
+Title - Recruiting Friends & Family...
+Title - Please Date Me!
+Title - I Like You More Than Adventure
+Title - Joystick Aristocrat
+Title - Just a Passing Fisherman
+Title - Swept the Waters
+Title - City-State Fishing Maniac
+Title - Freshwater Fishing Maniac
+Title - Seawater Fishing Maniac
+Title - Asterscad Scholar
+Title - Green Puffer Scholar
+Title - Rockpea Scholar
+Title - Azure Damsel Scholar
+Title - Astermackere Scholar
+Title - Regnus Bighead Scholar
+Title - Stellar Squirrelfish Scholar
+Title - Lantern Puffer Scholar
+Title - Flaming Grouper Scholar
+Title - Snowy Bighead Scholar
+Title - Hanikon Bighead Scholar
+Title - Asterscad Fishing King
+Title - Green Puffer Fishing King
+Title - Rockpea Fishing King
+Title - Azure Damsel Fishing King
+Title - Astermackere Fishing King
+Title - Regnus Bighead Fishing King
+Title - Stellar Squirrelfish Fishing King
+Title - Lantern Puffer Fishing King
+Title - Flaming Grouper Fishing King
+Title - Snowy Bighead Fishing King
+Title - Hanikon Bighead Fishing King
+Title - The Ultimate Angler
+Title - The Best Partner!
+Title - One of a Kind
+Title - Classy. Too Classy.
+Title - Closet Overflow Error
+Title - Airona's Pendant
+Title - Kawaii
+Title - Cuteness Reigns Supreme
+Title - Anyway, Super Cute!
+Title - A Round Applause
+Title - Grain Devouring Overlord
+Title - Namecard Connoisseur
+Title - Namecard Curator
+Title - Far-Famed
+Title - The Ever-Resounding Name
+Title - The Unrepeatable
+Title - Innovatively Handcrafted
+Title - Brand-New
+Title - Curiouser
+Title - Smile Doesn't Lie
+Title - Together in Every Shot
+Title - War Correspondent
+Title - Suspicious as Expected
+Title - Hi, Uprooting in progress
+Title - Natural Historian
+Title - Gathering with Gusto!
+Title - Hi, Already Digging
+Title - Miner's Ultimate Showdown
+Title - Mining with Mojo!
+Title - Hi, Already Mining
+Title - Crystals Element Master
+Title - Quarry with Spirit!
+Title - Hi, I'll Partake Modestly
+Title - Kitchen's Mine
+Title - Walking Cookbook from Asterleeds
+Title - Then, Initiate the Experiment
+Title - Afro Artist
+Title - Great Sage of Truth
+Title - Iron Blossoms
+Title - Forged in Fire
+Title - Goldsmith Overlord
+Title - Precise Processing
+Title - Finely Crafted
+Title - Great Artist
+Title - Wooden Dummy
+Title - Sawdust Storm Generator
+Title - One Wood, One Lifetime
+Title - Oneiroweaver
+Title - Seamless
+Title - One Shuttle, One Cosmos
+Title - 100% Yorozuya
+Title - Starting From Zero: Island Lord
+Title - Rookie with Respect
+Title - Home Evolution
+Title - Haven for the Heart
+Title - From Dust to Stars
+Title - The Original Concrete Pouring
+Title - Concrete Pouring Practice
+Title - Island Startup Fund
+Title - Misty Island Investor
+Title - Misty Island Financial Master
+Title - Under Renovation
+Title- House Artisan
+Title - Expo of Marvels
+Title - Model Enthusiast, Attack!
+Title - Otaku Saga
+Title - Sunny Day Sunshine!
+Title - Straight-A Student
+Title - Chromatique Poet
+Title - Stepping into Dreamscape
+Title - Hydrangea Chroma Savant
+Title - Rose Chroma Savant
+Title - Tulip Chroma Savant
+Title - Hydrangea Polymorphism Scholar
+Title - Rose Polymorphism Scholar
+Title - Tulip Polymorphism Scholar
+Title - Phantom Devourer
+Title - Dragon Shackles - Adept
+Title - Star Overseer
+
+
+
+Sep. 2025 Collection Card
+Oct. 2025 Collection Card
+Nov. 2025 Collection Card
+Dec. 2025 Collection Card
+Jan 2025 Collection Card
+Feb 2025 Collection Card
+Mar. 2026 Collection Card
+Apr. 2026 Collection Card
+May 2026 Collection Card
+Jun. 2025 Collection Card
+Jul. 2025 Collection Card
+Aug. 2025 Collection Card
+Sep. 2025 Collection Card
+Oct. 2025 Collection Card
+Nov. 2025 Collection Card
+Dec. 2025 Collection Card
+Jan. 2027 Collection Card
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+placeholder
+Guild EXP
+Guild Fund
+Guild Merit
+Seaside Wooden Steps
+Single Ladder
+White Wall with Wood Trim
+White Wall
+Corner Wall Panel
+Corner Trim
+Corner Trim
+Red Brick Wall
+Wall with Window
+Grid Window
+Cabinet
+Alabaster Pillar - Thin
+Alabaster Pillar - Thick
+Seaside Sleeper
+Double Decker
+Bay Lounger
+Bay Bench
+Armchair
+Round Stool
+Round Stool 2
+Sleek Round Stool
+Seaside Dining Set
+Wooden Table
+Seaside Wooden Table
+Iron-Wood Side Table
+Walnut Coffee Table
+Elegant Oak Table
+Seaside Round Table
+Iron-Wood Large Round Table
+Multi-Section Right Cabinet
+Multi-Section Left Cabinet
+Multi-Section Double Cabinet
+Four-Section Storage
+Five-Section Storage
+Grand Museum Display
+Museum Display
+Museum Drawer Unit
+Glass Display Case
+Cloud Rest Shelf
+Classical Wall Lamp
+Tubular Floor Lamp
+Triple Pendant Light
+Triple Floor Light
+Ethereal Lantern
+Spotlight - Dazzle
+Metal Sheet Pendant
+Multi-Section Sconce
+Wall Spotlight
+Pointed Pendant
+Street Light Post
+Bronze Dome Sconce
+Eave-Mounted Light
+Round Wall Spotlight
+Vintage Art Sconce
+Bread
+Baguette
+Dinner Roll
+Hanging Pineapples
+Hanging Bananas
+Fruit Basket
+Watermelon
+Metal-Framed Table
+Gold-Patterned Rug
+Azure-Patterned Rug
+Mandala Shadow
+Red Runner
+Green Square Rug
+Blue Square Rug
+Red Square Rug
+Brocade Carpet
+Dreamweave Carpet
+Rainbow Stripe Rug
+Red Floral Rug
+Nautical Anchor Rug
+Door Curtain
+Easel - Harbor
+Easel - Chaotic Realm
+Easel - Ruins
+Easel - Canyon
+Wall Art - Andra
+Wall Art - Ruins
+Wall Art - Statue of the Hero
+Wall Art - Hero's Herb
+Quill
+Key Sculpture
+Book 1
+Book 2
+Book 3
+A stack of books
+Book combination
+Book combination 2
+Book combination 3
+Quaint Clay Vase
+Garden Planter
+Blooming SeedFlourish
+Striped Planter
+Gray Textured Stone Planter
+Lotus
+Red Fruit Flower
+Blue Enchantress Rose
+Lavender Flower Clusters
+Purple Flower Cluster Plant
+Feather-Leaf Green Plant
+White Porcelain Plant
+Pottery Plant
+Striped Plant
+Wall-Mounted Crimson Floral Cluster
+Glass Bottle
+Beverage Bottle
+Curved Beams
+Garden Leisure Rocker
+Azure Haven Parasol
+Purple Haven Parasol
+Green Haven Parasol
+Balloons
+Lantern
+Banana Leaf Plant
+Coconut Tree
+Beach Style Mat
+Beach Lounger
+Yellow Flower Clusters
+Chrysanthemum Clusters
+Haystack Plant
+Purple Clusters
+Evergreen
+Bonfire
+Stone Pile
+Rock Pillar
+Woodcarved Figurine - Ee-chan Holding a Bottle
+Fruit Wooden Basin
+Vegetable Wooden Basin
+Citrus Wooden Basin
+Tomato Wooden Basin
+Lemon Wooden Basin
+Yellow Iron Signboard
+Green Iron Signboard
+Red Iron Signboard
+Snowfield Signboard
+Blue and White Signboard
+Black Iron Signboard
+Orange Iron Signboard
+Celestine Signboard
+Red and Yellow Iron Signboard
+Abstract Signboard
+Bear Signboard
+Text Signboard
+Gold-Framed Chalkboard
+Wooden-Framed Chalkboard
+Large Stake Stool
+Small Stake Stool
+Horizontal Aged Timber Pier
+Classical Hanging Lamp
+Bluestone Staircase - I
+Bluestone Staircase - II
+Old Dock Wooden Crate
+Stacked Wooden Boards
+Vertical Billboard
+Moss-Covered Old Slate
+Colorful Square-Tile Flooring
+Checkered Fireplace
+Lego Combination Cabinet
+Cube Combination Cabinet
+Multi-Seater Leather Sofa
+Single-Seater Sofa
+Cube Single-Unit Cabinet
+Lego Single-Unit Cabinet
+Iron Round Column
+Round Log Column
+Iron Round Column (Short)
+Round Log Column
+Wooden Triangle Board
+Wooden Short Rack
+Wrought Iron Square Column (Long)
+Wooden Storage Boards (Short)
+Metal Plate (Long)
+Metal Rack (Short)
+Wooden Square Column (Short)
+Metal Plate (Short)
+Metal Triangle Panels
+Wooden Storage Boards
+Wooden Long Rack
+Metal Rack (Long)
+Bubble Machine
+Crafting Station
+Jukebox
+Ee-chan
+Pixelated Tiles (1m)
+Wood Grain Floor Tiles (3m)
+Field
+Curved Sofa
+Ethereal Wind Wooden Counter
+Retro Long Storage Cabinet
+Multi-Compartment Cabinet
+Classic Locker
+Curved Mega Wall Cabinet
+Curved Counter
+Purple Bromeliad Plant
+Notice Board - II
+Hanging Leaves
+Quaint Crate
+Wicker Basket
+Oak Storage Barrel
+Oak Aging Barrel
+Wooden Crate 02
+Modular Tool Kit
+Seaside Aging Barrel
+Arched Notice Board
+Flat Wall-Mounted Notice Board
+Long Wall-Mounted Notice Board
+Oak Storage Barrel
+Wilderness Riddle Wall-Mounted Plaque
+Promotion Leaflet - VII
+Round Signboard
+Whimsical Plaque
+Pet Plaque
+Typographic Poster
+Kitten Plaque
+Wooden Plaque 10
+Wooden Plaque 11
+Wooden Plaque 12
+Wooden Plaque 13
+Wooden Plaque 14
+Wooden Plaque - II
+Artisanal Bottle - I
+Gilt-Framed Chalkboard
+Neon Chroma Plaque
+Notice Board - I
+Wooden Plaque 04
+Wooden Plaque - XI
+Gas Canister
+Knightly Wall Mount
+Banana Leaf Plant - II
+Iron Barrel
+Irregular-Shaped Plaque
+Four-Leaf Phantom Shield
+Wooden Crate 03
+Promotion Leaflet - I
+Promotion Leaflet - II
+Promotion Leaflet - IV
+Promotion Leaflet - V
+Promotion Leaflet - III
+Promotion Leaflet - VI
+Tavern Wall Poster 07
+Tavern Wall Poster - VIII
+Tavern Wall Poster 09
+Wooden Plaque - IV
+Vintage Wicker Basket
+Tavern Log 01
+Artisanal Bottle - VIII
+Artisanal Bottle - IX
+Artisanal Bottle - IV
+Artisanal Bottle - V
+Artisanal Bottle - X
+Artisanal Bottle - XI
+Artisanal Bottle - XII
+Artisanal Bottle - VII
+Artisanal Bottle - XIII
+Artisanal Bottle - VI
+Rudder-Style Wall Mount
+Double-Ring Tray
+Gunny Sack
+Tavern Bottle 12
+Tavern Bottle 13
+Tavern Bottle 14
+Tavern Bottle 15
+Artisanal Bottle - II
+Artisanal Bottle - III
+Tavern Bottle 18
+Mithril Goblet
+A Basket of Potatoes
+Double-Layer Storage Rack
+Tavern Bottle 19
+Wooden Crate 04
+Tavern Plants 04
+Wooden Crate 05
+Wooden Crate 06
+Oak Tray
+Wooden Ladder
+Mithril Open Cup
+Wooden Crate 07
+Tavern Basket 04
+Feather-Leaf Plant - II
+Spirit-Leaf Plant
+Golden Cluster Plant
+Flat-Leaf Plant
+Red Flower Cluster Plant
+Elf Pom Flower Cluster
+Cattail-Leaf Plant
+Quaint Pottery Pot
+Delicate Iron Box
+Black Pottery Jar
+White Pottery Jar
+Flared Rim Pottery Jar
+Delicate Wooden Box
+Irregular-Shaped Pottery Jar
+Wooden Material Crate
+Square Carpet
+Round Carpet
+Soft Round Cushion
+Color-Arc Blanket
+Dual-Head Floor Lamp
+Vintage Chandelier
+Firefly Chandelier
+Shutters
+Double-Hung Shutters
+Floor-to-Ceiling - II
+Floor-to-Ceiling - III
+Floor-to-Ceiling - IV
+Floor-to-Ceiling - I
+Light Shutters
+Light Shutters - Large
+Aged Wooden Gate
+Slim Mahogany Door
+Decorative Column
+Retro Arch
+Brown Wooden Steps
+Mullion Window
+Mullion Window - Broad
+Wood Lattice Window
+Elegant Lattice Screen
+Dancing Light
+Spotlight - Heartbeat
+Spotlight - Dazzle
+Spotlight - Streamlight
+Spotlight - Pulse
+Spotlight - Bloom
+Spotlight - Starlight
+Spotlight - Flicker
+Spotlight - Radiance
+Spotlight - Resonance
+Spotlight - Lightdance
+Spotlight - Emotion Surfing
+Spotlight - Cheerlight
+Spotlight - Trail
+Neon Flicker - Beat
+Neon Flicker - Illusion Tune
+Neon Flicker - Rhythm
+Iron Grille
+Metal Lines
+Shelf of Thoughts
+Tranquil Woodgrain
+Elegant Woodgrain
+Chestnut Panel
+Autumn Panel
+Vintage Extension Ladder
+Seaside Handrail
+Seaside Guardrail
+Entangled Thoughts
+Curved Lines
+Steady Wood Pillar
+Sturdy Wood Pillar
+Balance Beam
+Quaint Pillar
+Elegant Decorative Pillar
+Timber Beam
+Nighttime Respite
+Still Life in Color
+Floral Elegance
+Azure Skycloth
+Rock Solid
+Verdant Grace of Vine
+Whispers of Vine
+Lush Bloom of Vine
+Dusky Drift of Vine
+Corner of the Garden
+Shaded in Green
+Utilitarian - Pincer
+Utilitarian - Forging
+Utilitarian - Heavy Work
+Utilitarian - Hammering
+Utilitarian - Forgework
+Utilitarian - Precise Tong
+Utilitarian - Grip Tong
+Utilitarian - Tempered Tong
+Utilitarian - Metal Tong
+Utilitarian - Cutting
+Utilitarian - Construction
+Utilitarian - Refining
+Utilitarian - Assembly
+Utilitarian - Reconstruction
+Utilitarian - Craft Hammer
+Utilitarian - Artisan's Touch
+Woven Color Blocks
+Patterned Storage
+Woven Basket
+Traveler's Jar
+Spring Shade
+Desert Shade
+Wind Shade
+Dreams on the Road
+Peaceful Contemplation
+Rainbow Sleep
+Gleaming Shadow
+Star & Moon Lamp
+Exotic Round Table
+Flowing Curtain
+Pillow of Sweet Dreams
+Orange & Black Spin
+Berry Drift
+Grilled Eel Rice Balls
+Ee-chan Rice Ball
+Delicious Sandwiches
+Heartfelt Breakfast
+A Touch of Green
+Unknown Taste
+Ee-chan at Home
+Explorer's Map
+Rotating Art Shelf
+Wooden Rack
+Wooden Hanging Panel
+Monolithic Marble
+Minimumic Beginnings
+Elegant Square Tiles
+Natural Wood Grain
+Arboreal Weave
+Monochrome Elegance
+Dawnlight Grain
+Dusk Chessboard
+Gray-White Floor
+Undercurrent
+Moss
+Cold Color
+Time Brick
+Weathered
+Wood Slats
+Coffee
+Arboreal Chessboard
+Abyssal Chessboard
+Twilight
+The Unnameable Night
+Elusive Wind
+Shadow Beyond Sight
+Weaving of Art
+Dreamy Passage
+Noisy Balloons
+Forgotten Sandpile I
+Forgotten Sandpile II
+Forgotten Sandpile III
+Freeze the Moment
+Melancholy Glow Orb
+Silent Glow Orb
+Ambient Light Strip I
+Ambient Light Strip II
+Orange Floatie
+Wave Floatie
+Coconut Floatie
+Fiery Floatie
+Cooling Floatie
+Beach Volleyball - Summer
+Beach Volleyball - Vivid
+Beach Volleyball - Wave
+Surfboard - Sunny Sea
+Surfboard - Swift Sail
+Surfboard - Glare
+Leisure Decor
+Joyful Moments
+Gathering Memories
+Neon Tide I
+Neon Tide II
+Sea Breeze Snapshot
+Figurine - Golden Juggernaut
+Figurine -Frost Ogre
+Figurine - Inferno Ogre
+Figurine - Phantom Arachnocrab
+Figurine - Brigand Leader
+Figurine - Venobzzar Incubator
+Figurine - Muku Chief
+Figurine - Iron Fang
+Figurine - Storm Goblin King
+Figurine - Tempest Ogre
+Figurine - Celestial Flier
+Figurine - Lizardman King
+All - Natural Wood Grain
+All - Monochrome Elegance
+All - Dusk Chessboard
+All - Dawnlight Grain
+All - Arboreal Weave
+All - Elegant Square Tiles
+All - Mixed-Color Tile - I
+All - Mixed-Color Tile - II
+All - Monolithic Marble
+All - Minimumic Beginnings
+All - Carpet 01
+All - Carpet 02
+All - Carpet 03
+All - Carpet 04
+All - Coarse Wood Flooring
+All - Fine Wood Flooring
+All - Time Brick
+All - Weathered
+All - Wood Slats
+All - Bitter Coffee
+All - Twilight
+All - Arboreal Chessboard
+All - Abyssal Chessboard
+All - 3D Brick Wall - I
+All - 3D Brick Wall - II
+All - 3D Brick Wall - III
+All - Moss
+All - Cold Color
+All - Leafscape
+All - Stone-Veined Wall - I
+All - Rustic
+All - Stone-Veined Wall - II
+All - Stone-Veined Wall - III
+Moss
+Cold Color
+Leafscape
+Time Brick
+Weathered
+Wood Slats
+Coffee
+Twilight
+Rustic
+Figurine - Goblin - I
+Figurine - Goblin - II
+Figurine - Muku
+Figurine - Golden Nappo
+Figurine - Lovely Boarlet
+Regular Fishing Pole
+Sturdy Fishing Pole
+Flexible Fishing Pole
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Tulip
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Rose
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Hydrangea
+Tulip
+Tulip
+Rose
+Rose
+Hydrangea
+Hydrangea
+Tulip Pollen
+Rose Pollen
+Hydrangea Pollen
+Boarlet
+Eaglefeather Steed
+Recon Oculoid
+Royal Horse: Platinum
+Byrnhald Golem
+Loyal Boarlet
+Lovely Boarlet
+Breezy Boarlet
+Golem Foxen
+Voyager
+Cuddly Ranger Rabbit
+Twilight Stage
+Air Rider Type α
+Swift Sweeper
+Inferno Doombane
+Loyal Pickup Pup
+Lionmane Steed
+Hyper Impulse
+Anti-Gravity Bubble
+Mini Golem
+Melon Oculoid
+Tropical Oculoid
+Midnight Sweeper
+Cosmic Sweeper
+Wave Steed
+Shiny Steed
+Air Rider Type β
+Air Rider Type γ
+Shadow Doombane
+Joyous Doombane
+Pearl Golem
+Cyan Golem
+Scarlet Golem
+Blade Oculoid
+Fuzzy Ranger Rabbit
+Fluffy Ranger Rabbit
+Royal Horse - Golden Black
+Astral Delivery
+Shimmering Beautifish
+Lustrous Beautifish
+Radiant Beautifish
+Turtle
+Dawnlight Stage
+Solstic Beautifish
+Mirage Beautifish
+Lovely Pickup Pup
+Wild Pickup Pup
+Electro Golem
+Starlight Stage
+Moonlight Stage
+Crimson Foxen
+Night Foxen
+Abyss Foxen
+Firestorm Impulse
+Devilray
+Fleeting Dvilray
+Zephyr Delivery
+Homestead EXP
+Homestead Supplies
